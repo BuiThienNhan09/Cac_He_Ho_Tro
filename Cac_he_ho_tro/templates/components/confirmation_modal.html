@@ -1,0 +1,36 @@
+<div id="confirmationModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center hidden">
+    <div class="bg-white rounded-lg p-8 max-w-md w-full">
+        <h3 class="text-2xl font-bold mb-4">Xác nhận đặt phòng</h3>
+        
+        <div class="mb-6">
+            <h4 class="font-semibold mb-2">Thông tin đặt phòng:</h4>
+            <div class="space-y-2 text-gray-600">
+                <p><span class="font-medium">Loại phòng:</span> {{ room.type }}</p>
+                <p><span class="font-medium">Số phòng:</span> {{ room.number }}</p>
+                <p><span class="font-medium">Giá:</span> {{ "{:,.0f}".format(room.price) }} VND/đêm</p>
+                <p><span class="font-medium">Ngày nhận phòng:</span> {{ check_in_date }}</p>
+                <p><span class="font-medium">Ngày trả phòng:</span> {{ check_out_date }}</p>
+            </div>
+        </div>
+        
+        <div class="mb-6">
+            <h4 class="font-semibold mb-2">Thông tin khách hàng:</h4>
+            <div class="space-y-2 text-gray-600">
+                <p><span class="font-medium">Họ tên:</span> {{ customer.name }}</p>
+                <p><span class="font-medium">Số điện thoại:</span> {{ customer.phone }}</p>
+                <p><span class="font-medium">Email:</span> {{ customer.email }}</p>
+            </div>
+        </div>
+        
+        <div class="border-t pt-6 flex justify-end space-x-4">
+            <button onclick="closeConfirmationModal()" 
+                    class="px-4 py-2 border border-gray-300 rounded-lg hover:bg-gray-50">
+                Hủy
+            </button>
+            <button onclick="confirmBooking()" 
+                    class="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700">
+                Xác nhận đặt phòng
+            </button>
+        </div>
+    </div>
+</div>

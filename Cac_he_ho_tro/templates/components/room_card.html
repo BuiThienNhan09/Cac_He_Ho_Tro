@@ -1,0 +1,32 @@
+<div class="room-card bg-white rounded-lg shadow-lg overflow-hidden">
+    <div class="relative">
+        <img src="{{ room.image_url }}" alt="{{ room.name }}" class="w-full h-48 object-cover">
+        <div class="absolute top-0 right-0 bg-blue-600 text-white px-3 py-1 m-2 rounded-full">
+            {{ room.type }}
+        </div>
+    </div>
+    
+    <div class="p-6">
+        <h3 class="text-xl font-bold mb-2">{{ room.name }}</h3>
+        <p class="text-gray-600 mb-4">{{ room.description }}</p>
+        
+        <div class="mb-4">
+            <h4 class="font-semibold mb-2">Tiện nghi:</h4>
+            <ul class="list-disc list-inside text-gray-600">
+                {% for amenity in room.amenities %}
+                <li>{{ amenity }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        
+        <div class="flex justify-between items-center">
+            <div class="text-xl font-bold text-blue-600">
+                {{ "{:,.0f}".format(room.price) }} VND/đêm
+            </div>
+            <button onclick="selectRoom('{{ room.id }}')" 
+                    class="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition duration-300">
+                Chọn phòng
+            </button>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,89 @@
+/* static/css/style.css */
+
+:root {
+    --color-tan: #C5A47E;
+    --color-tan-dark: #B08E6A;
+    --color-black: #1A1A1A;
+    --color-white: #FFFFFF;
+    --color-gray: #F7F7F7;
+}
+
+/* Base Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--color-black);
+    line-height: 1.6;
+}
+
+.font-playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+/* Custom Colors */
+.bg-tan {
+    background-color: var(--color-tan);
+}
+
+.bg-tan-dark {
+    background-color: var(--color-tan-dark);
+}
+
+.text-tan {
+    color: var(--color-tan);
+}
+
+.border-tan {
+    border-color: var(--color-tan);
+}
+
+/* Form Styles */
+.form-input:focus, 
+.form-select:focus, 
+.form-textarea:focus {
+    border-color: var(--color-tan);
+    box-shadow: 0 0 0 2px rgba(197, 164, 126, 0.2);
+    outline: none;
+}
+
+.form-checkbox:checked {
+    background-color: var(--color-tan);
+    border-color: var(--color-tan);
+}
+
+/* Animation Classes */
+.fade-in {
+    animation: fadeIn 0.5s ease-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Room Card Styles */
+.room-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.room-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    
+    .text-6xl {
+        font-size: 3rem;
+    }
+}

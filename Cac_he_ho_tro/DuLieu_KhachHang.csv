@@ -1,0 +1,621 @@
+﻿id_khach_hang,ho_ten,ngay_sinh,email,gioi_tinh,so_ho_chieu,so_dien_thoai,quoc_tich,nghe_nghiep,ngay_check_in,ngay_check_out,loai_phong,gia_phong,so_thich,dich_vu_da_su_dung
+KH001,Nguyễn Văn An,5/15/1990,nguyenvanan@email.com,Nam,P123456,901234567,Việt Nam,Kỹ sư phần mềm,3/1/2024,3/5/2024,Deluxe,2500000,Chơi game; Nghe nhạc Jazz; Đọc sách,Phòng tập hiện đại; Nhà hàng Á; Room Service; Giặt ủi quần áo
+KH002,Mary Johnson,8/22/1985,mary.j@email.com,Nữ,US789012,912345678,Mỹ,Giáo viên,3/1/2024,3/7/2024,Suite,3500000,Yoga; Nghe nhạc cổ điển; Vẽ tranh,Massage & Spa; Hồ bơi ngoài trời; Nhà hàng Âu; Dịch vụ Concierge
+KH003,Trần Thị Bình,12/10/1995,tranbinh@email.com,Nữ,P234567,923456789,Việt Nam,Bác sĩ,3/1/2024,3/6/2024,Standard,1800000,Xem phim; Đọc sách; Nấu ăn,Phòng tập hiện đại; Tour tham quan thành phố; Room Service
+KH004,David Chen,3/25/1988,david.c@email.com,Nam,SG345678,934567890,Singapore,Doanh nhân,3/1/2024,3/8/2024,Executive,4000000,Chơi golf; Xem phim hành động; Sưu tầm rượu,Phòng họp/Hội nghị; Xe đưa đón sân bay; Nhà hàng Âu; Lobby Bar
+KH005,Lê Hoàng Mai,7/30/1992,lemai@email.com,Nữ,P345678,945678901,Việt Nam,Marketing,3/1/2024,3/9/2024,Deluxe,2500000,Nhảy hiện đại; Tập yoga; Chụp ảnh,Massage & Spa; Phòng tập hiện đại; Room Service; Giặt ủi quần áo
+KH006,Kim Min-ji,9/18/1993,minji.kim@email.com,Nữ,KR456789,956789012,Hàn Quốc,Nghệ sĩ,3/2/2024,3/10/2024,Suite,3500000,Chơi piano; Hát karaoke; Thưởng thức trà,Nhà hàng Á; Massage & Spa; Dịch vụ Concierge; Hồ bơi ngoài trời
+KH007,Phạm Đức Thành,11/5/1987,ducthanh@email.com,Nam,P456789,967890123,Việt Nam,Kiến trúc sư,3/2/2024,3/12/2024,Standard,1800000,Vẽ tranh; Chụp ảnh; Leo núi,Tour tham quan thành phố; Room Service; Lobby Bar
+KH008,Sarah Wilson,4/12/1991,sarah.w@email.com,Nữ,UK567890,978901234,Anh,Nhà văn,3/2/2024,3/13/2024,Executive,4000000,Viết truyện; Đọc sách; Thưởng thức opera,Tổ chức tiệc; Nhà hàng Âu; Xe đưa đón sân bay
+KH009,Nguyễn Minh Tuấn,2/28/1994,minhtuan@email.com,Nam,P567890,989012345,Việt Nam,Kỹ sư,3/2/2024,3/14/2024,Deluxe,2500000,Chơi game online; Bơi lội; Đạp xe,Phòng tập hiện đại; Nhà hàng Á; Giặt ủi quần áo
+KH010,Takashi Yamamoto,6/20/1986,takashi.y@email.com,Nam,JP678901,990123456,Nhật Bản,Giám đốc,3/2/2024,3/15/2024,Suite,3500000,Chơi golf; Thiền; Thư pháp,Phòng họp/Hội nghị; Nhà hàng Á; Massage & Spa; Dịch vụ Concierge
+KH011,Emma Brown,1/15/1989,emma.b@email.com,Nữ,UK123457,901234568,Anh,Luật sư,3/3/2024,3/8/2024,Suite,3500000,Chơi tennis; Đọc sách; Thưởng thức rượu vang,Massage & Spa; Nhà hàng Âu; Hồ bơi ngoài trời
+KH012,Hoàng Văn Bình,3/20/1993,hvbinh@email.com,Nam,P678902,912345679,Việt Nam,Giảng viên,3/3/2024,3/7/2024,Deluxe,2500000,Guitar; Xem phim kinh dị; Chơi cờ vua,Phòng tập hiện đại; Room Service; Giặt ủi quần áo
+KH013,Liu Wei,12/5/1987,wei.liu@email.com,Nam,CN234568,923456790,Trung Quốc,Doanh nhân,3/3/2024,3/9/2024,Executive,4000000,Karaoke; Chơi golf; Sưu tầm đồng hồ,Phòng họp/Hội nghị; Nhà hàng Á; Xe đưa đón sân bay
+KH014,Sofia Garcia,8/25/1994,sofia.g@email.com,Nữ,ES345679,934567891,Tây Ban Nha,Nghệ sĩ,3/3/2024,3/8/2024,Standard,1800000,Múa Flamenco; Vẽ tranh; Nấu ăn,Tour tham quan thành phố; Nhà hàng Âu; Room Service
+KH015,Trần Đức Long,11/30/1990,tdlong@email.com,Nam,P456790,945678902,Việt Nam,Bác sĩ,3/3/2024,3/10/2024,Deluxe,2500000,Chạy bộ; Nhiếp ảnh; Đọc sách y học,Nhà hàng Á; Lobby Bar; Room Service
+KH016,Fouk,28/02/2002,Fouk22@email.com,Nam,PA536272,983672819,Lào,Doanh nhân,4/3/2024,3/15/2024,Premium,5500000,Đàn piano; Yoga; Thời trang,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH017,Anna Petrova,9/28/1992,anna.p@email.com,Nữ,RU891012,989012346,Nga,Nhà thiết kế,4/4/2024,3/20/2024,Suite,3500000,Game online; Bóng bàn; Lập trình,Phòng tập hiện đại; Room Service; Giặt ủi quần áo
+KH018,Nguyễn Thành Nam,4/15/1988,ntnam@email.com,Nam,P901234,990123457,Việt Nam,Kỹ sư,4/5/2024,3/19/2024,Deluxe,2500000,Nấu ăn; Khiêu vũ; Thưởng thức rượu,Tổ chức tiệc; Nhà hàng Âu; Dịch vụ Concierge
+KH019,Michael Chang,7/22/1991,m.chang@email.com,Nam,US012345,901234569,Mỹ,Doanh nhân,4/6/2024,3/21/2024,Executive,4000000,Origami; Trà đạo; Vườn bonsai,Massage & Spa; Nhà hàng Á; Hồ bơi ngoài trời
+KH020,Park Ji-sung,8/15/1991,jisung.p@email.com,Nam,KR234567,912345680,Hàn Quốc,Ca sĩ,3/5/2024,3/10/2024,Suite,3500000,Leo núi; Câu cá; Đọc truyện tranh,Phòng tập hiện đại; Nhà hàng Á; Room Service
+KH021,Elena Popov,4/23/1988,elena.p@email.com,Nữ,RU456789,923456781,Nga,Vũ công,3/5/2024,3/9/2024,Deluxe,2500000,Viết blog; Chụp ảnh; Yoga,Tour tham quan thành phố; Massage & Spa; Dịch vụ Concierge
+KH022,Nguyễn Hoàng Phúc,11/30/1993,hoangphuc@email.com,Nam,P567890,934567892,Việt Nam,Lập trình viên,3/5/2024,3/8/2024,Standard,1800000,Thư pháp; Thiền; Kinh doanh,Phòng họp/Hội nghị; Nhà hàng Á; Xe đưa đón sân bay
+KH023,Isabella Martinez,2/14/1987,isabel.m@email.com,Nữ,ES678901,945678903,Tây Ban Nha,Kiến trúc sư,3/6/2024,3/11/2024,Executive,4000000,Samba; Thể dục nhịp điệu; Nấu ăn,Massage & Spa; Nhà hàng Âu; Hồ bơi ngoài trời
+KH024,Wang Lei,9/8/1990,wang.l@email.com,Nam,CN789012,956789014,Trung Quốc,Nhà đầu tư,3/6/2024,3/12/2024,Suite,3500000,Cờ tướng; Đọc sách; Bơi lội,Phòng tập hiện đại; Room Service; Giặt ủi quần áo
+KH025,Sophie Laurent,6/19/1992,sophie.l@email.com,Nữ,FR890123,967890125,Pháp,Đầu bếp,3/6/2024,3/10/2024,Deluxe,2500000,Vẽ phác thảo; Piano; Du lịch,Tour tham quan thành phố; Nhà hàng Âu; Dịch vụ Concierge
+KH026,Trần Minh Đức,12/3/1989,minhduc@email.com,Nam,P901234,978901236,Việt Nam,Bác sĩ,3/7/2024,3/11/2024,Standard,1800000,Karaoke; Trượt băng; Thời trang,Tổ chức tiệc; Nhà hàng Á; Massage & Spa
+KH027,Anna Schmidt,3/27/1994,anna.s@email.com,Nữ,DE012345,989012347,Đức,Nhà thiết kế,3/7/2024,3/13/2024,Executive,4000000,Đan len; Làm bánh; Yoga,Massage & Spa; Room Service; Hồ bơi ngoài trời
+KH028,Lee Min-ho,5/21/1986,minho.l@email.com,Nam,KR123456,990123458,Hàn Quốc,Diễn viên,3/7/2024,3/12/2024,Suite,3500000,Nấu ăn Ý; Bóng đá; Thưởng thức rượu vang,Nhà hàng Âu; Phòng tập hiện đại; Lobby Bar
+KH029,Maria Silva,8/11/1993,maria.s@email.com,Nữ,BR234567,901234570,Brazil,Luật sư,3/8/2024,3/14/2024,Deluxe,2500000,Vẽ thời trang; Mua sắm; Trà đạo,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH030,Phạm Thanh Hà,1/5/1990,thanhha@email.com,Nữ,P345678,912345681,Việt Nam,Giảng viên,3/8/2024,3/12/2024,Standard,1800000,Lập trình; Chơi game; Tennis,Phòng họp/Hội nghị; Room Service; Giặt ủi quần áo
+KH031,James Wilson,7/29/1988,james.w@email.com,Nam,UK456789,923456782,Anh,Doanh nhân,3/8/2024,3/15/2024,Executive,4000000,Vẽ tranh; Nhảy Jazz; Yoga,Massage & Spa; Nhà hàng Âu; Hồ bơi ngoài trời
+KH032,Yuki Tanaka,10/14/1991,yuki.t@email.com,Nữ,JP567890,934567893,Nhật Bản,Nhiếp ảnh gia,3/9/2024,3/14/2024,Suite,3500000,Chụp ảnh; Cắm hoa; Thiền,Tour tham quan thành phố; Nhà hàng Á; Room Service
+KH033,Nguyễn Thị Lan,4/2/1987,lannt@email.com,Nữ,P678901,945678904,Việt Nam,Y tá,3/9/2024,3/13/2024,Deluxe,2500000,Khiêu vũ; Guitar; Nấu ăn,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH034,Alexander Ivanov,11/18/1992,alex.i@email.com,Nam,RU789012,956789015,Nga,Kỹ sư,3/9/2024,3/15/2024,Standard,1800000,Bơi lội; Đọc sách khoa học; Chess,Phòng tập hiện đại; Room Service; Giặt ủi quần áo
+KH035,Linda Chen,6/25/1989,linda.c@email.com,Nữ,SG890123,967890126,Singapore,Marketing,3/10/2024,3/16/2024,Executive,4000000,Violin; Opera; Du lịch,Tổ chức tiệc; Nhà hàng Âu; Massage & Spa
+KH036,Mohammed Al-Said,2/9/1993,mohammed.a@email.com,Nam,AE901234,978901237,UAE,Nhà đầu tư,3/10/2024,3/15/2024,Suite,3500000,Golf; Karaoke; Xem phim,Phòng họp/Hội nghị; Nhà hàng Á; Lobby Bar
+KH037,Emma Wilson,9/12/1990,emma.w@email.com,Nữ,AU012345,989012348,Úc,Giáo viên,3/10/2024,3/14/2024,Deluxe,2500000,Nhảy hiện đại; Trang điểm; Shopping,Massage & Spa; Room Service; Hồ bơi ngoài trời
+KH038,Lê Văn Tùng,12/30/1988,vantung@email.com,Nam,P123457,990123459,Việt Nam,IT,3/11/2024,3/15/2024,Standard,1800000,Tennis; Đọc sách; Whisky tasting,Phòng họp/Hội nghị; Nhà hàng Âu; Dịch vụ Concierge
+KH039,Sophia Anderson,5/17/1991,sophia.a@email.com,Nữ,CA234568,901234571,Canada,Nghệ sĩ,3/11/2024,3/17/2024,Executive,4000000,Vẽ phác thảo; Võ thuật; Trà đạo,Tour tham quan thành phố; Nhà hàng Á; Massage & Spa
+KH040,Kim Tae-hyung,8/23/1994,taehyung.k@email.com,Nam,KR345679,912345682,Hàn Quốc,Ca sĩ,3/11/2024,3/16/2024,Suite,3500000,Nấu ăn; Piano; Thưởng thức rượu,Nhà hàng Âu; Room Service; Giặt ủi quần áo
+KH041,Laura Martinez,3/8/1987,laura.m@email.com,Nữ,ES456780,923456783,Tây Ban Nha,Luật sư,3/12/2024,3/18/2024,Deluxe,2500000,Lập trình; Bóng rổ; Đọc truyện,Phòng tập hiện đại; Nhà hàng Á; Hồ bơi ngoài trời
+KH042,Trần Đình Quang,10/20/1992,dinhquang@email.com,Nam,P567891,934567894,Việt Nam,Kiến trúc sư,3/12/2024,3/16/2024,Standard,1800000,Viết sách; Yoga; Nhiếp ảnh,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH043,Catherine White,7/14/1989,catherine.w@email.com,Nữ,UK678902,945678905,Anh,Nhà văn,3/12/2024,3/19/2024,Executive,4000000,Chụp ảnh; Thiền; Cắm hoa,Nhà hàng Á; Massage & Spa; Room Service
+KH044,Liu Jian,4/28/1990,liu.j@email.com,Nam,CN789013,956789016,Trung Quốc,Doanh nhân,3/13/2024,3/18/2024,Suite,3500000,Múa ballet; Piano; Thưởng thức trà,Massage & Spa; Nhà hàng Âu; Hồ bơi ngoài trời
+KH045,Marie Dubois,1/11/1993,marie.d@email.com,Nữ,FR890124,967890127,Pháp,Đầu bếp,3/13/2024,3/17/2024,Deluxe,2500000,Nấu ăn; Chơi guitar; Làm vườn,Nhà hàng Á; Room Service; Giặt ủi quần áo
+KH046,Nguyễn Hồng Anh,6/5/1988,honganh@email.com,Nữ,P901235,978901238,Việt Nam,Y tá,3/13/2024,3/18/2024,Standard,1800000,Nhảy Samba; Yoga; Chụp ảnh,Tổ chức tiệc; Massage & Spa; Dịch vụ Concierge
+KH047,Marco Rossi,11/22/1991,marco.r@email.com,Nam,IT012346,989012349,Ý,Nhiếp ảnh gia,3/14/2024,3/20/2024,Executive,4000000,Karaoke; Trượt băng; DJ,Tour tham quan thành phố; Nhà hàng Á; Lobby Bar
+KH048,Seo Ji-hye,2/15/1994,jihye.s@email.com,Nữ,KR123458,990123460,Hàn Quốc,Diễn viên,3/14/2024,3/19/2024,Suite,3500000,Vẽ tranh; Đọc sách; Trồng hoa,Massage & Spa; Room Service; Hồ bơi ngoài trời
+KH049,Thomas Brown,9/9/1987,thomas.b@email.com,Nam,US234569,901234572,Mỹ,Giáo sư,3/14/2024,3/20/2024,Deluxe,2500000,Thiết kế; Chơi golf; Sưu tầm tem,Phòng họp/Hội nghị; Nhà hàng Âu; Xe đưa đón sân bay
+KH050,Phạm Thu Hương,12/25/1990,thuhuong@email.com,Nữ,P345670,912345683,Việt Nam,Marketing,3/15/2024,3/21/2024,Standard,1800000,Thời trang; Calligraphy; Masage,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH051,Carlos Rodriguez,6/14/1988,carlos.r@email.com,Nam,ES567891,923456784,Tây Ban Nha,Đầu bếp,3/15/2024,3/20/2024,Executive,4000000,Bơi lội; Chơi cờ vua; Đọc sách,Phòng tập hiện đại; Room Service; Hồ bơi ngoài trời
+KH052,Zhang Wei,9/30/1992,zhang.w@email.com,Nam,CN678902,934567895,Trung Quốc,Doanh nhân,3/15/2024,3/22/2024,Suite,3500000,Vẽ tranh; Violin; Nấu ăn,Nhà hàng Âu; Massage & Spa; Dịch vụ Concierge
+KH053,Nina Petrova,3/18/1991,nina.p@email.com,Nữ,RU789013,945678906,Nga,Vũ công,3/16/2024,3/21/2024,Deluxe,2500000,Đánh golf; Thưởng thức rượu; Boxing,Phòng họp/Hội nghị; Nhà hàng Á; Xe đưa đón sân bay
+KH054,Trần Đức Minh,11/5/1989,ducminh@email.com,Nam,P890124,956789017,Việt Nam,Kỹ sư,3/16/2024,3/20/2024,Standard,1800000,Flamenco; Yoga; Đọc tiểu thuyết,Tour tham quan thành phố; Room Service; Hồ bơi ngoài trời
+KH055,Emma Thompson,7/22/1993,emma.t@email.com,Nữ,UK901235,967890128,Anh,Nhà văn,3/16/2024,3/23/2024,Executive,4000000,Lập trình; Bóng bàn; Chơi game,Phòng tập hiện đại; Nhà hàng Á; Giặt ủi quần áo
+KH056,Kim Sung-jin,2/9/1987,sungjin.k@email.com,Nam,KR012346,978901239,Hàn Quốc,Ca sĩ,3/17/2024,3/22/2024,Suite,3500000,Viết sách; Piano; Làm vườn,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH057,Maria Ferreira,5/26/1994,maria.f@email.com,Nữ,BR123458,989012350,Brazil,Luật sư,3/17/2024,3/21/2024,Deluxe,2500000,Nấu ăn Nhật; Võ thuật; Thư pháp,Nhà hàng Á; Phòng họp/Hội nghị; Room Service
+KH058,Nguyễn Thị Mai,8/12/1990,mainth@email.com,Nữ,P234569,990123461,Việt Nam,Giáo viên,3/17/2024,3/22/2024,Standard,1800000,Vẽ tranh; Khiêu vũ; Nấu ăn Mexico,Tour tham quan thành phố; Massage & Spa; Lobby Bar
+KH059,Alexander White,12/29/1988,alex.w@email.com,Nam,US345670,901234573,Mỹ,Kiến trúc sư,3/18/2024,3/25/2024,Executive,4000000,Chơi tennis; Đọc sách y học; Cờ vua,Phòng tập hiện đại; Nhà hàng Á; Hồ bơi ngoài trời
+KH060,Yuki Sato,4/15/1992,yuki.s@email.com,Nữ,JP456781,912345684,Nhật Bản,Nhà thiết kế,3/18/2024,3/23/2024,Suite,3500000,Ballet; Đàn dương cầm; Nhiếp ảnh,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH061,Lê Hoàng Nam,1/31/1989,hoangnam@email.com,Nam,P567892,923456785,Việt Nam,IT,3/18/2024,3/22/2024,Deluxe,2500000,Thư pháp; Thiền; Đánh golf,Phòng họp/Hội nghị; Nhà hàng Á; Xe đưa đón sân bay
+KH062,Sophie Martin,10/7/1993,sophie.m@email.com,Nữ,FR678903,934567896,Pháp,Nghệ sĩ,3/19/2024,3/24/2024,Standard,1800000,Đọc sách; Làm bánh; Yoga,Room Service; Massage & Spa; Hồ bơi ngoài trời
+KH063,Chen Wei Ming,6/24/1987,weiming@email.com,Nam,CN789014,945678907,Singapore,Doanh nhân,3/19/2024,3/26/2024,Executive,4000000,Chụp ảnh; Nấu ăn Ý; Bóng đá,Tour tham quan thành phố; Nhà hàng Âu; Lobby Bar
+KH064,Anna Kowalski,9/11/1991,anna.k@email.com,Nữ,PL890125,956789018,Ba Lan,Bác sĩ,3/19/2024,3/24/2024,Suite,3500000,Thời trang; K-pop dance; Mỹ phẩm,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH065,Trần Văn Hùng,3/28/1988,vanhung@email.com,Nam,P901236,967890129,Việt Nam,Kỹ sư,3/20/2024,3/24/2024,Deluxe,2500000,Chơi game; Bơi lội; Lập trình,Phòng tập hiện đại; Room Service; Giặt ủi quần áo
+KH066,William Clark,12/19/1990,william.c@email.com,Nam,US012347,990123462,Mỹ,Doanh nhân,3/25/2024,3/30/2024,Executive,4000000,Violon; Opera; Du lịch,Nhà hàng Âu; Massage & Spa; Hồ bơi ngoài trời
+KH067,Đặng Minh Tâm,5/16/1991,minhtam@email.com,Nam,P654321,967890130,Việt Nam,Nhạc sĩ,3/20/2024,3/25/2024,Standard,1800000,Origami; Cờ vây; Thiền,Tour tham quan thành phố; Nhà hàng Á; Room Service
+KH068,Julia Schmidt,8/23/1988,julia.s@email.com,Nữ,DE765432,978901240,Đức,Bác sĩ,3/20/2024,3/26/2024,Executive,4000000,Samba; Yoga; Nấu ăn Brazil,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH069,Li Wei,11/9/1993,li.wei@email.com,Nam,CN876543,989012351,Trung Quốc,Nhà đầu tư,3/20/2024,3/25/2024,Suite,3500000,Lập trình; Đánh cờ; Chạy bộ,Phòng họp/Hội nghị; Nhà hàng Á; Giặt ủi quần áo
+KH070,Isabella Costa,2/28/1987,isabella.c@email.com,Nữ,BR987654,990123463,Brazil,Luật sư,3/21/2024,3/27/2024,Deluxe,2500000,Viết sách; Làm vườn; Thưởng thức trà,Room Service; Massage & Spa; Hồ bơi ngoài trời
+KH071,Nguyễn Hoàng Long,7/14/1992,hoanglong@email.com,Nam,P098765,901234574,Việt Nam,Kỹ sư phần mềm,3/21/2024,3/26/2024,Standard,1800000,Làm phim; Chơi guitar; Nhiếp ảnh,Nhà hàng Á; Phòng họp/Hội nghị; Dịch vụ Concierge
+KH072,Sophia Anderson,10/31/1989,sophia.a@email.com,Nữ,CA109876,912345685,Canada,Giáo viên,3/21/2024,3/28/2024,Executive,4000000,Nấu ăn; Khiêu vũ Latin; Du lịch,Tổ chức tiệc; Nhà hàng Âu; Tour tham quan thành phố
+KH073,Tanaka Yuto,1/17/1994,yuto.t@email.com,Nam,JP210987,923456786,Nhật Bản,Nhiếp ảnh gia,3/22/2024,3/27/2024,Suite,3500000,Karaoke; Chơi piano; Diễn xuất,Massage & Spa; Nhà hàng Á; Lobby Bar
+KH074,Elena Ivanova,4/5/1990,elena.i@email.com,Nữ,RU321098,934567897,Nga,Vũ công,3/22/2024,3/28/2024,Deluxe,2500000,Vẽ tranh; Yoga; Chụp ảnh,Phòng tập hiện đại; Room Service; Hồ bơi ngoài trời
+KH075,Lê Thành Nam,9/22/1986,thanhnam@email.com,Nam,P432109,945678908,Việt Nam,Kiến trúc sư,3/22/2024,3/26/2024,Standard,1800000,Thiết kế; Bóng đá; Nấu ăn Ý,Phòng họp/Hội nghị; Nhà hàng Âu; Dịch vụ Concierge
+KH076,Charlotte Brown,12/8/1993,charlotte.b@email.com,Nữ,UK543210,956789019,Anh,Nhà văn,3/23/2024,3/29/2024,Executive,4000000,Thư pháp; Võ thuật; Kinh doanh,Nhà hàng Á; Massage & Spa; Xe đưa đón sân bay
+KH077,Park Min-jae,3/25/1988,minjae.p@email.com,Nam,KR654321,967890131,Hàn Quốc,Ca sĩ,3/23/2024,3/28/2024,Suite,3500000,Violon; Múa ballet; Thể dục,Tour tham quan thành phố; Nhà hàng Âu; Room Service
+KH078,Trần Thị Ngọc,6/11/1991,thingoc@email.com,Nữ,P765432,978901241,Việt Nam,Y tá,3/23/2024,3/27/2024,Deluxe,2500000,Tennis; Đọc sách; Chơi cờ,Phòng tập hiện đại; Nhà hàng Á; Giặt ủi quần áo
+KH079,Marco Ferrari,11/28/1987,marco.f@email.com,Nam,IT876543,989012352,Ý,Đầu bếp,3/23/2024,3/29/2024,Standard,1800000,Origami; Trà đạo; Vẽ manga,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH080,Liu Mei,2/14/1992,liu.mei@email.com,Nữ,CN987654,990123464,Trung Quốc,Doanh nhân,3/24/2024,3/30/2024,Executive,4000000,Flamenco; Guitar; Nấu ăn,Tổ chức tiệc; Nhà hàng Âu; Hồ bơi ngoài trời
+KH081,Ahmed Hassan,7/1/1989,ahmed.h@email.com,Nam,AE098765,901234575,UAE,Nhà đầu tư,3/24/2024,3/29/2024,Suite,3500000,Chụp ảnh; Tập yoga; Mua sắm,Massage & Spa; Room Service; Tour tham quan thành phố
+KH082,Phạm Thị Linh,9/18/1994,thilinh@email.com,Nữ,P109876,912345686,Việt Nam,Giảng viên,3/24/2024,3/28/2024,Deluxe,2500000,Lập trình; Chơi game; Bơi lội,Phòng tập hiện đại; Nhà hàng Âu; Giặt ủi quần áo
+KH083,Thomas Miller,12/5/1990,thomas.m@email.com,Nam,US210987,923456787,Mỹ,Luật sư,3/24/2024,3/30/2024,Standard,1800000,K-pop dance; Piano; Làm đẹp,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH084,Yamamoto Sakura,4/22/1988,sakura.y@email.com,Nữ,JP321098,934567898,Nhật Bản,Nhà thiết kế,3/25/2024,3/31/2024,Executive,4000000,Bóng đá; Lướt sóng; Đọc sách,Phòng tập hiện đại; Nhà hàng Âu; Hồ bơi ngoài trời
+KH085,Nguyễn Đức Thịnh,7/9/1993,ducthinh@email.com,Nam,P432109,945678909,Việt Nam,IT,3/25/2024,3/29/2024,Suite,3500000,Chơi game; Leo núi; Đọc truyện,Room Service; Nhà hàng Á; Giặt ủi quần áo
+KH086,Maria González,10/26/1987,maria.g@email.com,Nữ,ES543210,956789020,Tây Ban Nha,Bác sĩ,3/25/2024,3/31/2024,Deluxe,2500000,Ballet; Piano; Nhiếp ảnh,Massage & Spa; Nhà hàng Âu; Tour tham quan thành phố
+KH087,Lee Jin-ho,1/12/1991,jinho.l@email.com,Nam,KR654321,967890132,Hàn Quốc,Doanh nhân,3/25/2024,3/30/2024,Standard,1800000,Cờ vây; Thiền; Golf,Phòng họp/Hội nghị; Nhà hàng Á; Xe đưa đón sân bay
+KH088,Anna Petrova,6/29/1989,anna.p@email.com,Nữ,RU765432,978901242,Nga,Nghệ sĩ,3/26/2024,4/1/2024,Executive,4000000,Samba; Yoga; Nấu ăn,Tổ chức tiệc; Massage & Spa; Dịch vụ Concierge
+KH089,Trần Văn Quân,9/15/1992,vanquan@email.com,Nam,P876543,989012353,Việt Nam,Kỹ sư,3/26/2024,3/30/2024,Suite,3500000,Chụp ảnh; Đi phượt; Guitar,Tour tham quan thành phố; Nhà hàng Á; Room Service
+KH090,Sophie Wilson,12/2/1988,sophie.w@email.com,Nữ,UK987654,990123465,Anh,Nhà văn,3/26/2024,4/1/2024,Deluxe,2500000,Nấu ăn Pháp; Vẽ tranh; Nhảy,Nhà hàng Âu; Massage & Spa; Hồ bơi ngoài trời
+KH091,Chen Wei,3/19/1993,chen.w@email.com,Nam,CN098765,901234576,Trung Quốc,Nhà đầu tư,3/26/2024,3/31/2024,Standard,1800000,Karate; Thư pháp; Thiền,Phòng tập hiện đại; Nhà hàng Á; Dịch vụ Concierge
+KH092,Laura Schmidt,6/6/1990,laura.s@email.com,Nữ,DE109876,912345687,Đức,Giáo viên,3/27/2024,4/2/2024,Executive,4000000,Tennis; Bơi lội; Yoga,Massage & Spa; Nhà hàng Âu; Hồ bơi ngoài trời
+KH093,Phạm Minh Đức,11/23/1987,minhduc@email.com,Nam,P210987,923456788,Việt Nam,Kiến trúc sư,3/27/2024,3/31/2024,Suite,3500000,Lập trình; Cầu lông; Đọc sách,Phòng tập hiện đại; Room Service; Giặt ủi quần áo
+KH094,Emily Brown,2/9/1994,emily.b@email.com,Nữ,CA321098,934567899,Canada,Luật sư,3/27/2024,4/2/2024,Deluxe,2500000,Vẽ tranh; Fado; Du lịch,Tour tham quan thành phố; Nhà hàng Âu; Massage & Spa
+KH095,Kim Min-soo,5/26/1989,minsoo.k@email.com,Nam,KR432109,945678910,Hàn Quốc,Ca sĩ,3/27/2024,4/1/2024,Standard,1800000,Sản xuất nhạc; Golf; Karaoke,Phòng họp/Hội nghị; Nhà hàng Á; Dịch vụ Concierge
+KH096,Marina Silva,8/13/1991,marina.s@email.com,Nữ,BR543210,956789021,Brazil,Bác sĩ,3/28/2024,4/3/2024,Executive,4000000,Opera; Nấu ăn Ý; Tennis,Nhà hàng Âu; Massage & Spa; Hồ bơi ngoài trời
+KH097,Lê Hoàng Anh,1/30/1988,hoanganh@email.com,Nam,P654321,967890133,Việt Nam,IT,3/28/2024,4/1/2024,Suite,3500000,Đọc sách; Cờ tướng; Bóng bàn,Phòng tập hiện đại; Nhà hàng Á; Room Service
+KH098,Natalia Ivanova,4/16/1993,natalia.i@email.com,Nữ,RU765432,978901243,Nga,Vũ công,3/28/2024,4/3/2024,Deluxe,2500000,Múa Ấn Độ; Yoga; Thiền,Massage & Spa; Tour tham quan thành phố; Dịch vụ Concierge
+KH099,James Wilson,7/3/1990,james.w@email.com,Nam,UK876543,989012354,Anh,Doanh nhân,3/28/2024,4/2/2024,Standard,1800000,Thư pháp; Võ thuật; Làm vườn,Phòng họp/Hội nghị; Nhà hàng Á; Xe đưa đón sân bay
+KH100,Trần Thị Hoa,9/15/1992,thihoa@email.com,Nữ,P987654,990123466,Việt Nam,Giáo viên,3/29/2024,4/3/2024,Suite,3500000,Viết sách; Cưỡi ngựa; Chơi dương cầm,Tổ chức tiệc; Nhà hàng Âu; Massage & Spa
+KH101,Hans Mueller,11/28/1988,hans.m@email.com,Nam,DE098765,901234577,Đức,Kỹ sư,3/29/2024,4/4/2024,Executive,4000000,Quay phim; Trượt ván; Chơi saxophone,Tour tham quan thành phố; Nhà hàng Âu; Dịch vụ Concierge
+KH102,Sakura Tanaka,2/10/1993,sakura.t@email.com,Nữ,JP109876,912345688,Nhật Bản,Nghệ sĩ,3/29/2024,4/3/2024,Deluxe,2500000,Làm tóc nghệ thuật; Vẽ móng; Thời trang,Massage & Spa; Room Service; Hồ bơi ngoài trời
+KH103,Nguyễn Văn Hải,5/24/1987,vanhai@email.com,Nam,P210987,923456789,Việt Nam,IT,3/29/2024,4/2/2024,Standard,1800000,Nấu ăn Bắc Âu; Đạp xe; Câu cá,Nhà hàng Âu; Phòng họp/Hội nghị; Xe đưa đón sân bay
+KH104,Isabella Romano,8/7/1991,isabella.r@email.com,Nữ,IT321098,934567900,Ý,Đầu bếp,3/30/2024,4/5/2024,Suite,3500000,Cắm hoa Ikebana; Trà đạo; Thư pháp,Nhà hàng Á; Massage & Spa; Room Service
+KH105,Park Ji-won,12/20/1989,jiwon.p@email.com,Nam,KR432109,945678911,Hàn Quốc,Ca sĩ,3/30/2024,4/4/2024,Executive,4000000,Sáng tác nhạc; Chơi game; Bóng rổ,Tổ chức tiệc; Phòng tập hiện đại; Dịch vụ Concierge
+KH106,Elena Popov,3/3/1994,elena.p@email.com,Nữ,RU543210,956789022,Nga,Vũ công,3/30/2024,4/3/2024,Deluxe,2500000,Khiêu vũ Tango; Piano; Du lịch,Nhà hàng Âu; Massage & Spa; Tour tham quan thành phố
+KH107,Lê Minh Tuấn,6/16/1990,minhtuan@email.com,Nam,P654321,967890134,Việt Nam,Kiến trúc sư,3/30/2024,4/4/2024,Standard,1800000,Nhiếp ảnh đường phố; Trượt tuyết; Chơi violin,Phòng họp/Hội nghị; Nhà hàng Á; Hồ bơi ngoài trời
+KH108,Sophie Anderson,9/29/1988,sophie.a@email.com,Nữ,UK765432,978901244,Anh,Nhà văn,3/31/2024,4/6/2024,Suite,3500000,Bơi lội chuyên nghiệp; Nấu ăn; Chơi cello,Phòng tập hiện đại; Massage & Spa; Room Service
+KH109,Liu Chang,12/12/1993,liu.c@email.com,Nam,CN876543,989012355,Trung Quốc,Doanh nhân,3/31/2024,4/5/2024,Executive,4000000,Thiết kế nội thất; Chơi guitar; Cờ vua,Nhà hàng Á; Tour tham quan thành phố; Giặt ủi quần áo
+KH110,Maria Santos,3/25/1987,maria.s@email.com,Nữ,BR987654,990123467,Brazil,Bác sĩ,3/31/2024,4/4/2024,Deluxe,2500000,Samba; Yoga; Nấu ăn Brazil,Massage & Spa; Hồ bơi ngoài trời; Dịch vụ Concierge
+KH111,Phạm Đức Anh,6/8/1991,ducanh@email.com,Nam,P098765,901234578,Việt Nam,Kỹ sư,3/31/2024,4/5/2024,Standard,1800000,Cưỡi ngựa; Golf; Sưu tầm nghệ thuật,Phòng họp/Hội nghị; Nhà hàng Âu; Xe đưa đón sân bay
+KH112,Emma Thompson,9/21/1989,emma.t@email.com,Nữ,CA109876,912345689,Canada,Luật sư,4/1/2024,4/7/2024,Suite,3500000,Làm gốm; Vẽ thư pháp; Thiền,Nhà hàng Á; Massage & Spa; Room Service
+KH113,Yamamoto Kenji,12/4/1994,kenji.y@email.com,Nam,JP210987,923456790,Nhật Bản,Nhiếp ảnh gia,4/1/2024,4/6/2024,Executive,4000000,Võ thuật; Chơi sáo trúc; Leo núi,Phòng tập hiện đại; Nhà hàng Á; Tour tham quan thành phố
+KH114,Anna Kovacs,3/17/1990,anna.k@email.com,Nữ,HU321098,934567901,Hungary,Nghệ sĩ,4/1/2024,4/5/2024,Deluxe,2500000,Xiếc nghệ thuật; Ballet; Yoga,Massage & Spa; Nhà hàng Âu; Hồ bơi ngoài trời
+KH115,Trần Văn Nam,6/30/1988,vannam@email.com,Nam,P432109,945678912,Việt Nam,IT,4/1/2024,4/6/2024,Standard,1800000,Phát triển game; Cosplay; Bơi lội,Phòng họp/Hội nghị; Room Service; Dịch vụ Concierge
+KH116,Antoine Martin,7/12/1987,antoine.m@email.com,Nam,FR543210,956789023,Pháp,Đầu bếp,4/1/2024,4/6/2024,Suite,3500000,Nấu ăn Mexico; Salsa; Làm gốm,Nhà hàng Âu; Massage & Spa; Tour tham quan thành phố
+KH117,Kim Ji-eun,9/25/1992,jieun.k@email.com,Nữ,KR654321,967890135,Hàn Quốc,Nghệ sĩ,4/2/2024,4/7/2024,Deluxe,2500000,Sáng tác nhạc; Chơi đàn bầu; Cờ tướng,Tổ chức tiệc; Nhà hàng Á; Giặt ủi quần áo
+KH118,Trần Đức Thành,11/8/1989,ducthanh@email.com,Nam,P765432,978901245,Việt Nam,Kỹ sư,4/2/2024,4/6/2024,Standard,1800000,Thu âm; Chơi organ; Leo núi,Phòng họp/Hội nghị; Nhà hàng Âu; Room Service
+KH119,Laura Martinez,1/21/1993,laura.m@email.com,Nữ,ES876543,989012356,Tây Ban Nha,Luật sư,4/2/2024,4/8/2024,Executive,4000000,Trang điểm nghệ thuật; Múa K-pop; Thời trang,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH120,Chen Wei Ming,3/14/1988,weiming@email.com,Nam,CN987654,990123469,Singapore,Doanh nhân,4/2/2024,4/7/2024,Suite,3500000,Thiết kế quần áo; Vẽ tranh; Opera,Tour tham quan thành phố; Nhà hàng Âu; Hồ bơi ngoài trời
+KH121,Nguyễn Thị Mai Anh,5/27/1991,maianh@email.com,Nữ,P098765,901234579,Việt Nam,Giáo viên,4/3/2024,4/8/2024,Deluxe,2500000,Diễn xuất; Múa đương đại; Đọc kịch bản,Massage & Spa; Room Service; Hồ bơi ngoài trời
+KH122,Alexander Brown,8/9/1986,alex.b@email.com,Nam,UK109876,912345690,Anh,Nhà văn,4/3/2024,4/9/2024,Standard,1800000,Bay lượn; Chơi golf; Sưu tầm mô hình máy bay,Phòng họp/Hội nghị; Nhà hàng Âu; Xe đưa đón sân bay
+KH123,Yuki Nakamura,10/22/1994,yuki.n@email.com,Nữ,JP210987,923456791,Nhật Bản,Nhà thiết kế,4/3/2024,4/8/2024,Executive,4000000,Ikebana; Thư pháp; Làm gốm,Tour tham quan thành phố; Nhà hàng Á; Dịch vụ Concierge
+KH124,Phạm Minh Quân,12/5/1990,minhquan@email.com,Nam,P321098,934567902,Việt Nam,IT,4/3/2024,4/7/2024,Suite,3500000,Nấu ăn fusion; Chụp ảnh món ăn; Thưởng thức rượu,Nhà hàng Á; Room Service; Giặt ủi quần áo
+KH125,Sofia Garcia,2/18/1987,sofia.g@email.com,Nữ,MX432109,945678913,Mexico,Bác sĩ,4/4/2024,4/10/2024,Deluxe,2500000,Vẽ phác thảo; Shopping; Chơi tennis,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH126,Lee Jung-hoon,4/1/1992,junghoon@email.com,Nam,KR543210,956789024,Hàn Quốc,Ca sĩ,4/4/2024,4/9/2024,Standard,1800000,Làm phim; Chơi drums; Trượt tuyết,Phòng họp/Hội nghị; Nhà hàng Á; Lobby Bar
+KH127,Anna Kowalski,6/14/1989,anna.k@email.com,Nữ,PL654321,967890136,Ba Lan,Vũ công,4/4/2024,4/10/2024,Executive,4000000,Vẽ tranh thủy mặc; Chơi sáo; Trồng lan,Tour tham quan thành phố; Room Service; Hồ bơi ngoài trời
+KH128,Trần Hoàng Vũ,8/27/1993,hoangvu@email.com,Nam,P765432,978901246,Việt Nam,Kiến trúc sư,4/4/2024,4/8/2024,Suite,3500000,Chỉ huy dàn nhạc; Sưu tầm nhạc cụ; Nấu ăn Ý,Nhà hàng Âu; Massage & Spa; Dịch vụ Concierge
+KH129,Emma Davis,11/9/1988,emma.d@email.com,Nữ,AU876543,989012357,Úc,Nhà báo,4/5/2024,4/11/2024,Deluxe,2500000,Nghệ thuật trà đạo; Yoga; Vẽ thư pháp,Massage & Spa; Nhà hàng Á; Room Service
+KH130,Liu Wei,1/22/1991,liu.w@email.com,Nam,CN987654,990123470,Trung Quốc,Doanh nhân,4/5/2024,4/10/2024,Standard,1800000,Thiết kế nội thất; Đạp xe; Nhiếp ảnh,Phòng họp/Hội nghị; Nhà hàng Âu; Tour tham quan thành phố
+KH131,Nguyễn Thị Thanh,4/5/1986,thithanh@email.com,Nữ,P098765,901234580,Việt Nam,Y tá,4/5/2024,4/9/2024,Executive,4000000,Viết blog du lịch; Chơi violin; Nấu ăn,Tour tham quan thành phố; Massage & Spa; Room Service
+KH132,Marco Rossi,6/18/1994,marco.r@email.com,Nam,IT109876,912345691,Ý,Đầu bếp,4/5/2024,4/11/2024,Suite,3500000,Thu âm; DJ; Chơi guitar điện,Nhà hàng Âu; Phòng họp/Hội nghị; Lobby Bar
+KH133,Park Min-ji,8/31/1990,minji.p@email.com,Nữ,KR210987,923456792,Hàn Quốc,Nghệ sĩ,4/6/2024,4/11/2024,Deluxe,2500000,Gấp giấy nghệ thuật; Vẽ manga; Làm vườn bonsai,Nhà hàng Á; Massage & Spa; Dịch vụ Concierge
+KH134,Lê Thành Đạt,11/13/1987,thanhdat@email.com,Nam,P321098,934567903,Việt Nam,Kỹ sư,4/6/2024,4/10/2024,Standard,1800000,Võ thuật cổ truyền; Thiền; Chơi cờ tướng,Phòng tập hiện đại; Nhà hàng Á; Hồ bơi ngoài trời
+KH135,Sarah Johnson,1/26/1992,sarah.j@email.com,Nữ,US432109,945678914,Mỹ,Luật sư,4/6/2024,4/12/2024,Executive,4000000,Múa truyền thống Hy Lạp; Piano; Nấu ăn Địa Trung Hải,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH136,Tanaka Hiroshi,4/9/1989,hiroshi.t@email.com,Nam,JP543210,956789025,Nhật Bản,Doanh nhân,4/6/2024,4/11/2024,Suite,3500000,Lập trình game; Cosplay; Chơi board game,Room Service; Nhà hàng Á; Giặt ủi quần áo
+KH137,Elena Petrova,6/22/1993,elena.p@email.com,Nữ,RU654321,967890137,Nga,Vũ công,4/7/2024,4/13/2024,Deluxe,2500000,Samba; Capoeira; Yoga,Tour tham quan thành phố; Massage & Spa; Hồ bơi ngoài trời
+KH138,Nguyễn Văn Hưng,9/4/1988,vanhung@email.com,Nam,P765432,978901247,Việt Nam,IT,4/7/2024,4/11/2024,Standard,1800000,Quay phim; Viết kịch bản; Chụp ảnh nghệ thuật,Phòng họp/Hội nghị; Nhà hàng Á; Dịch vụ Concierge
+KH139,Charlotte Wilson,11/17/1991,charlotte.w@email.com,Nữ,UK876543,989012358,Anh,Nhà văn,4/7/2024,4/13/2024,Executive,4000000,Trang trí nhà cửa; Vẽ tranh; Làm đồ gốm,Massage & Spa; Nhà hàng Âu; Room Service
+KH140,Wang Li,2/1/1986,wang.l@email.com,Nam,CN987654,990123471,Trung Quốc,Nhà đầu tư,4/7/2024,4/12/2024,Suite,3500000,Cưỡi ngựa; Chess; Sưu tầm nghệ thuật,Phòng họp/Hội nghị; Nhà hàng Á; Xe đưa đón sân bay
+KH141,Trần Thị Ngọc Mai,4/14/1994,ngocmai@email.com,Nữ,P098765,901234581,Việt Nam,Giáo viên,4/8/2024,4/12/2024,Deluxe,2500000,Múa đương đại; Vẽ tranh; Yoga,Massage & Spa; Room Service; Hồ bơi ngoài trời
+KH142,Lucas Silva,6/27/1990,lucas.s@email.com,Nam,BR109876,912345692,Brazil,Bác sĩ,4/8/2024,4/14/2024,Standard,1800000,Thiết kế quần áo; Chơi saxophone; Nấu ăn,Tổ chức tiệc; Nhà hàng Âu; Dịch vụ Concierge
+KH143,Kim Soo-jin,9/9/1987,soojin.k@email.com,Nữ,KR210987,923456793,Hàn Quốc,Ca sĩ,4/8/2024,4/13/2024,Executive,4000000,Tạo vườn Nhật; Cắm hoa; Trà đạo,Tour tham quan thành phố; Nhà hàng Á; Massage & Spa
+KH144,Phạm Đình Long,11/22/1992,dinhlong@email.com,Nam,P321098,934567904,Việt Nam,Kiến trúc sư,4/8/2024,4/12/2024,Suite,3500000,Mix nhạc; Sản xuất âm nhạc; Chơi piano,Phòng họp/Hội nghị; Room Service; Lobby Bar
+KH145,Maria Gonzalez,2/4/1989,maria.g@email.com,Nữ,ES432109,945678915,Tây Ban Nha,Luật sư,4/9/2024,4/15/2024,Deluxe,2500000,Flamenco; Khiêu vũ; Sáng tác nhạc,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH146,Yamamoto Kenji,4/17/1993,kenji.y@email.com,Nam,JP543210,956789026,Nhật Bản,Nhiếp ảnh gia,4/9/2024,4/14/2024,Standard,1800000,Chụp ảnh đường phố; Lướt ván; Trượt patin,Tour tham quan thành phố; Nhà hàng Á; Hồ bơi ngoài trời
+KH147,Lê Thị Hương,7/30/1988,thihuong@email.com,Nữ,P654321,967890138,Việt Nam,Y tá,4/9/2024,4/13/2024,Executive,4000000,Viết truyện; Đọc sách; Chơi đàn tranh,Room Service; Massage & Spa; Dịch vụ Concierge
+KH148,Thomas Anderson,10/12/1991,thomas.a@email.com,Nam,US765432,978901248,Mỹ,Doanh nhân,4/9/2024,4/15/2024,Suite,3500000,Nấu ăn Bắc Âu; Câu cá; Làm bánh,Nhà hàng Âu; Phòng tập hiện đại; Giặt ủi quần áo
+KH149,Chen Mei Ling,1/25/1989,meiling@email.com,Nữ,CN876543,989012359,Trung Quốc,Nghệ sĩ,4/10/2024,4/15/2024,Deluxe,2500000,Yoga nâng cao; Thiền; Nấu ăn chay,Massage & Spa; Phòng tập hiện đại; Hồ bơi ngoài trời
+KH150,Nguyễn Đức Huy,4/8/1992,duchuy@email.com,Nam,P987654,990123472,Việt Nam,Kỹ sư,4/10/2024,4/14/2024,Standard,1800000,Biểu diễn xiếc; Thể dục dụng cụ; Piano,Tổ chức tiệc; Nhà hàng Âu; Dịch vụ Concierge
+KH151,Sophie Laurent,7/21/1987,sophie.l@email.com,Nữ,FR098765,901234582,Pháp,Đầu bếp,4/10/2024,4/16/2024,Executive,4000000,Biểu diễn xiếc; Chơi game online; Guigar,Tổ chức tiệc; Nhà hàng Âu; Dịch vụ Concierge
+KH152,Kim Min-ho,10/3/1993,minho.k@email.com,Nam,KR109876,912345693,Hàn Quốc,Ca sĩ,4/10/2024,4/15/2024,Suite,3500000,Hát opera; Chơi violin; Vẽ tranh,Massage & Spa; Nhà hàng Á; Room Service
+KH153,Trần Thị Lan Anh,12/16/1990,lananh@email.com,Nữ,P210987,923456794,Việt Nam,Giáo viên,4/11/2024,4/15/2024,Deluxe,2500000,Thiết kế vườn; Chụp ảnh; Nấu ăn,Tour tham quan thành phố; Nhà hàng Âu; Hồ bơi ngoài trời
+KH154,Marco Bianchi,3/29/1988,marco.b@email.com,Nam,IT321098,934567905,Ý,Kiến trúc sư,4/11/2024,4/17/2024,Standard,1800000,Múa đương đại; Sáng tác nhạc; Yoga,Phòng tập hiện đại; Massage & Spa; Dịch vụ Concierge
+KH155,Yuki Suzuki,6/11/1994,yuki.s@email.com,Nữ,JP432109,945678916,Nhật Bản,Nhà thiết kế,4/11/2024,4/16/2024,Executive,4000000,Lập trình game; Chơi guitar; Võ thuật,Room Service; Nhà hàng Á; Giặt ủi quần áo
+KH156,Phạm Văn Khoa,8/24/1989,vankhoa@email.com,Nam,P543210,956789027,Việt Nam,IT,4/11/2024,4/15/2024,Suite,3500000,Vẽ graffiti; Skateboarding; DJ,Tour tham quan thành phố; Nhà hàng Âu; Massage & Spa
+KH157,Emma Williams,11/6/1991,emma.w@email.com,Nữ,UK654321,967890139,Anh,Nhà văn,4/12/2024,4/18/2024,Deluxe,2500000,Khảo cổ; Đọc sách lịch sử; Chơi cờ,Phòng họp/Hội nghị; Nhà hàng Á; Dịch vụ Concierge
+KH158,Liu Wei Chen,2/19/1986,weichen@email.com,Nam,CN765432,978901249,Singapore,Doanh nhân,4/12/2024,4/17/2024,Standard,1800000,Làm gốm; Vẽ tranh thủy mặc; Trà đạo,Massage & Spa; Room Service; Hồ bơi ngoài trời
+KH159,Lê Thanh Thảo,5/3/1992,thanhthao@email.com,Nữ,P876543,989012360,Việt Nam,Y tá,4/12/2024,4/16/2024,Executive,4000000,Chế tác đồng hồ; Chơi violin; Đạp xe,Nhà hàng Âu; Phòng tập hiện đại; Room Service
+KH160,Hans Schmidt,7/16/1990,hans.s@email.com,Nam,DE987654,990123473,Đức,Kỹ sư,4/12/2024,4/18/2024,Suite,3500000,Thiết kế kimono; Cắm hoa; Thư pháp,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH161,Park Ji-hye,10/29/1987,jihye.p@email.com,Nữ,KR098765,901234583,Hàn Quốc,Vũ công,4/13/2024,4/18/2024,Deluxe,2500000,Thiết kế ánh sáng; Nhiếp ảnh; Piano,Phòng họp/Hội nghị; Nhà hàng Á; Tour tham quan thành phố
+KH162,Nguyễn Minh Đức,1/11/1993,minhduc@email.com,Nam,P109876,912345694,Việt Nam,Kiến trúc sư,4/13/2024,4/17/2024,Standard,1800000,Khiêu vũ tango; Guitar; Nấu ăn,Tổ chức tiệc; Nhà hàng Âu; Massage & Spa
+KH163,Sofia Rodriguez,4/24/1988,sofia.r@email.com,Nữ,ES210987,923456795,Tây Ban Nha,Luật sư,4/13/2024,4/19/2024,Executive,4000000,Thiết kế game; Cosplay; Chơi drums,Room Service; Nhà hàng Á; Giặt ủi quần áo
+KH164,Tanaka Kenji,7/7/1991,kenji.t@email.com,Nam,JP321098,934567906,Nhật Bản,Nhiếp ảnh gia,4/13/2024,4/18/2024,Suite,3500000,Chế tác trang sức; Vẽ tranh; Yoga,Massage & Spa; Room Service; Hồ bơi ngoài trời
+KH165,Trần Thị Mai Linh,9/20/1989,mailinh@email.com,Nữ,P432109,945678917,Việt Nam,Giáo viên,4/14/2024,4/18/2024,Deluxe,2500000,Làm bánh; Nấu ăn Ý; Chơi accordion,Nhà hàng Âu; Tour tham quan thành phố; Dịch vụ Concierge
+KH166,Robert Clark,12/2/1994,robert.c@email.com,Nam,US543210,956789028,Mỹ,Doanh nhân,4/14/2024,4/20/2024,Standard,1800000,Trượt băng nghệ thuật; Ballet; Piano,Phòng tập hiện đại; Massage & Spa; Room Service
+KH167,Liu Mei Hua,2/15/1990,meihua@email.com,Nữ,CN654321,967890140,Trung Quốc,Nghệ sĩ,4/14/2024,4/19/2024,Executive,4000000,Điêu khắc; Vẽ phác thảo; Chơi sáo trúc,Tour tham quan thành phố; Nhà hàng Á; Giặt ủi quần áo
+KH168,Lê Văn Thắng,5/30/1987,vanthang@email.com,Nam,P765432,978901250,Việt Nam,IT,4/14/2024,4/18/2024,Suite,3500000,Thiết kế 3D; Vẽ digital art; Nhiếp ảnh,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH169,Marie Dubois,8/12/1992,marie.d@email.com,Nữ,FR876543,989012361,Pháp,Đầu bếp,4/15/2024,4/21/2024,Deluxe,2500000,Diễn xuất; Chơi piano; Trượt ván,Phòng tập hiện đại; Nhà hàng Á; Hồ bơi ngoài trời
+KH170,Kim Sung-jin,10/25/1989,sungjin.k@email.com,Nam,KR987654,990123474,Hàn Quốc,Ca sĩ,4/15/2024,4/20/2024,Standard,1800000,Thêu nghệ thuật; Vẽ tranh; Yoga,Massage & Spa; Room Service; Tour tham quan thành phố
+KH171,Nguyễn Thị Hồng,1/7/1993,thihong@email.com,Nữ,P098765,901234584,Việt Nam,Y tá,4/15/2024,4/19/2024,Executive,4000000,Quay phim; Nhiếp ảnh; Leo núi,Phòng họp/Hội nghị; Nhà hàng Âu; Dịch vụ Concierge
+KH172,Alessandro Romano,3/22/1988,alessandro.r@email.com,Nam,IT109876,912345695,Ý,Kiến trúc sư,4/15/2024,4/21/2024,Suite,3500000,Nghệ thuật trà; Thư pháp; Yoga,Massage & Spa; Nhà hàng Á; Room Service
+KH173,Yamamoto Sakura,6/4/1991,sakura.y@email.com,Nữ,JP210987,923456796,Nhật Bản,Nhà thiết kế,4/15/2024,4/20/2024,Deluxe,2500000,Thiết kế quần áo; Chơi violin; Trượt tuyết,Tổ chức tiệc; Nhà hàng Âu; Dịch vụ Concierge
+KH174,Phạm Đức Anh,8/17/1986,ducanh@email.com,Nam,P321098,934567907,Việt Nam,Kỹ sư,4/16/2024,4/20/2024,Standard,1800000,Múa dân gian; Đàn tỳ bà; Vẽ tranh,Tour tham quan thành phố; Massage & Spa; Hồ bơi ngoài trời
+KH175,Victoria White,11/30/1994,victoria.w@email.com,Nữ,UK432109,945678918,Anh,Luật sư,4/16/2024,4/22/2024,Executive,4000000,Capoeira; Percussion; Lướt sóng,Phòng tập hiện đại; Nhà hàng Á; Room Service
+KH176,Wang Lei,2/12/1990,wang.l@email.com,Nam,CN543210,956789029,Trung Quốc,Doanh nhân,4/16/2024,4/21/2024,Suite,3500000,Thiết kế nội thất; Vẽ tranh; Làm gốm,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH177,Trần Thu Hà,5/27/1987,thuha@email.com,Nữ,P654321,967890141,Việt Nam,Giáo viên,4/16/2024,4/20/2024,Deluxe,2500000,Chơi đàn bầu; Sáng tác nhạc; Cờ tướng,Phòng họp/Hội nghị; Nhà hàng Á; Room Service
+KH178,Pierre Martin,8/9/1992,pierre.m@email.com,Nam,FR765432,978901251,Pháp,Đầu bếp,4/17/2024,4/23/2024,Standard,1800000,Vẽ manga; Cosplay; Chơi piano,Tour tham quan thành phố; Massage & Spa; Dịch vụ Concierge
+KH179,Kim Min-ji,10/22/1989,minji.k@email.com,Nữ,KR876543,989012362,Hàn Quốc,Nghệ sĩ,4/17/2024,4/22/2024,Executive,4000000,Làm bánh Pháp; Nấu ăn; Chơi saxophone,Nhà hàng Âu; Room Service; Giặt ủi quần áo
+KH180,Nguyễn Văn Thành,1/4/1993,vanthanh@email.com,Nam,P987654,990123475,Việt Nam,IT,4/17/2024,4/21/2024,Standard,1800000,Makeup nghệ thuật; K-pop dance; Nhiếp ảnh,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH181,Elena Popova,4/18/1988,elena.p@email.com,Nữ,RU098765,901234585,Nga,Vũ công,4/17/2024,4/23/2024,Suite,3500000,"Cầu long, Bơi lội, Nghe nhạc",Phòng họp/Hội nghị; Nhà hàng Á; Lobby Bar
+KH182,David Thompson,7/30/1991,david.t@email.com,Nam,UK109876,912345696,Anh,Doanh nhân,4/17/2024,4/22/2024,Executive,4000000,Xiếc dây; Ballet; Yoga bay,Massage & Spa; Nhà hàng Âu; Phòng tập hiện đại
+KH183,Trần Thị Mai,10/12/1989,thimai@email.com,Nữ,P210987,923456797,Việt Nam,Giáo viên,4/18/2024,4/22/2024,Deluxe,2500000,Chạm khắc gỗ; Vẽ phác thảo; Thiền,Tour tham quan thành phố; Room Service; Dịch vụ Concierge
+KH184,Hiroshi Tanaka,1/25/1994,hiroshi.t@email.com,Nam,JP321098,934567908,Nhật Bản,Nhiếp ảnh gia,4/18/2024,4/24/2024,Standard,1800000,Múa Bollywood; Vẽ Henna; Yoga,Massage & Spa; Nhà hàng Á; Hồ bơi ngoài trời
+KH185,Li Wei,4/7/1990,li.w@email.com,Nữ,CN432109,945678919,Trung Quốc,Nhà thiết kế,4/18/2024,4/23/2024,Suite,3500000,Nấu bia thủ công; Nấu ăn; Đi bộ đường dài,Nhà hàng Âu; Phòng họp/Hội nghị; Room Service
+KH186,Phạm Minh Hiếu,7/20/1987,minhhieu@email.com,Nam,P543210,956789030,Việt Nam,Kỹ sư,4/18/2024,4/22/2024,Executive,4000000,Piano cổ điển; Sáng tác nhạc; Cờ vây,Phòng họp/Hội nghị; Nhà hàng Á; Dịch vụ Concierge
+KH187,Isabella Garcia,10/2/1992,isabella.g@email.com,Nữ,ES654321,967890142,Tây Ban Nha,Luật sư,4/19/2024,4/25/2024,Deluxe,2500000,Chụp ảnh động vật; Leo núi; Cắm trại,Phòng tập hiện đại; Nhà hàng Âu; Room Service
+KH188,Park Ji-sung,12/15/1988,jisung.p@email.com,Nam,KR765432,978901252,Hàn Quốc,Ca sĩ,4/19/2024,4/24/2024,Standard,1800000,Làm búp bê; Vẽ mini; Origami,Massage & Spa; Nhà hàng Á; Giặt ủi quần áo
+KH189,Nguyễn Thị Hương,3/28/1993,thihuong@email.com,Nữ,P876543,989012363,Việt Nam,Y tá,4/19/2024,4/23/2024,Suite,3500000,Chơi trumpet; Sáng tác nhạc jazz; Piano,Tổ chức tiệc; Nhà hàng Âu; Dịch vụ Concierge
+KH190,Marco Rossi,6/10/1989,marco.r@email.com,Nam,IT987654,990123476,Ý,Đầu bếp,4/19/2024,4/25/2024,Executive,4000000,Flamenco; Đàn guitar Tây Ban Nha; Hát,Massage & Spa; Room Service; Hồ bơi ngoài trời
+KH191,Chen Mei,9/23/1991,chen.m@email.com,Nữ,CN098765,901234586,Singapore,Doanh nhân,4/20/2024,4/25/2024,Deluxe,2500000,Vẽ graffiti; Hip-hop dance; Skateboard,Tour tham quan thành phố; Nhà hàng Á; Phòng tập hiện đại
+KH192,Lê Văn Dũng,12/6/1986,vandung@email.com,Nam,P109876,912345697,Việt Nam,IT,4/20/2024,4/24/2024,Standard,1800000,Làm mặt nạ; Vẽ tranh; Opera,Massage & Spa; Nhà hàng Âu; Room Service
+KH193,Sophie Martin,2/18/1994,sophie.m@email.com,Nữ,FR210987,923456798,Pháp,Nghệ sĩ,4/20/2024,4/26/2024,Suite,3500000,Đàn tranh; Hát cải lương; Cờ tướng,Phòng họp/Hội nghị; Nhà hàng Á; Dịch vụ Concierge
+KH194,Yamamoto Kenji,5/1/1990,kenji.y@email.com,Nam,JP321098,934567909,Nhật Bản,Kiến trúc sư,4/20/2024,4/25/2024,Executive,4000000,Pha chế nước hoa; Vẽ tranh; Piano,Massage & Spa; Nhà hàng Âu; Tour tham quan thành phố
+KH195,Trần Thu Thảo,8/14/1987,thuthao@email.com,Nữ,P432109,945678920,Việt Nam,Giáo viên,4/21/2024,4/25/2024,Deluxe,2500000,Làm đèn lồng; Thư pháp; Võ thuật,Room Service; Nhà hàng Á; Dịch vụ Concierge
+KH196,Alexander Brown,11/27/1992,alexander.b@email.com,Nam,UK543210,956789031,Anh,Doanh nhân,4/21/2024,4/27/2024,Standard,1800000,Vẽ tranh cát; Thư pháp; Yoga,Massage & Spa; Tour tham quan thành phố; Hồ bơi ngoài trời
+KH197,Kim Min-ah,2/9/1989,minah.k@email.com,Nữ,KR654321,967890143,Hàn Quốc,Vũ công,4/21/2024,4/26/2024,Suite,3500000,Điêu khắc băng; Trượt tuyết; Nhiếp ảnh,Phòng họp/Hội nghị; Nhà hàng Âu; Room Service
+KH198,Nguyễn Đức Long,5/22/1993,duclong@email.com,Nam,P765432,978901253,Việt Nam,Kỹ sư,4/21/2024,4/25/2024,Executive,4000000,Kintsugi; Trà đạo; Cắm hoa,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH199,Maria Silva,8/4/1988,maria.s@email.com,Nữ,BR876543,989012364,Brazil,Luật sư,4/22/2024,4/28/2024,Deluxe,2500000,Nặn tò he; Vẽ tranh dân gian; Sáo trúc,Tour tham quan thành phố; Room Service; Hồ bơi ngoài trời
+KH200,Liu Wei,11/17/1991,liu.w@email.com,Nam,CN987654,990123477,Trung Quốc,Doanh nhân,4/22/2024,4/27/2024,Suite,3500000,Làm quạt nghệ thuật; Khiêu vũ; Vẽ tranh,Massage & Spa; Nhà hàng Âu; Room Service
+KH201,Andrea Ferrari,5/12/1988,andrea.f@email.com,Nam,IT123456,901122334,Ý,Đầu bếp,3/15/2024,3/20/2024,Suite,3500000,Nghe nhạc,Nhà hàng Âu; Massage & Spa; Room Service; Giặt ủi quần áo
+KH202,Nguyễn Thị Hồng,8/25/1993,nthong@email.com,Nữ,P234567,912233445,Việt Nam,Giáo viên,3/15/2024,3/19/2024,Deluxe,2500000,Đọc sách,Tour tham quan thành phố; Nhà hàng Á; Hồ bơi ngoài trời
+KH203,Carlos Hernandez,11/30/1990,carlos.h@email.com,Nam,ES345678,923344556,Tây Ban Nha,Kiến trúc sư,3/15/2024,3/21/2024,Executive,4000000,Chơi guitar,Phòng họp/Hội nghị; Nhà hàng Âu; Xe đưa đón sân bay
+KH204,Sakura Tanaka,2/14/1995,sakura.t@email.com,Nữ,JP456789,934455667,Nhật Bản,Nghệ sĩ,3/16/2024,3/22/2024,Standard,1800000,Vẽ tranh,Massage & Spa; Room Service; Giặt ủi quần áo
+KH205,Robert Anderson,7/19/1987,robert.a@email.com,Nam,US567890,945566778,Mỹ,Luật sư,3/16/2024,3/23/2024,Suite,3500000,Chơi golf,Phòng họp/Hội nghị; Nhà hàng Âu; Lobby Bar
+KH206,Trần Minh Hoàng,4/8/1992,tmhoang@email.com,Nam,P678901,956677889,Việt Nam,Bác sĩ,3/16/2024,3/20/2024,Deluxe,2500000,Chạy bộ,Phòng tập hiện đại; Massage & Spa; Hồ bơi ngoài trời
+KH207,Sophie Martin,9/23/1989,sophie.m@email.com,Nữ,FR789012,967788990,Pháp,Đầu bếp,3/16/2024,3/22/2024,Executive,4000000,Nấu ăn,Tổ chức tiệc; Nhà hàng Âu; Dịch vụ Concierge
+KH208,Li Wei Chen,12/5/1994,liwei.c@email.com,Nam,CN890123,978899001,Trung Quốc,Doanh nhân,3/17/2024,3/23/2024,Standard,1800000,Cờ vua,Tour tham quan thành phố; Nhà hàng Á; Room Service
+KH209,Maria Santos,3/17/1991,maria.s@email.com,Nữ,BR901234,989900112,Brazil,Vũ công,3/17/2024,3/21/2024,Suite,3500000,Khiêu vũ,Massage & Spa; Hồ bơi ngoài trời; Giặt ủi quần áo
+KH210,Phạm Đức Anh,6/29/1986,pdanh@email.com,Nam,P012345,990011223,Việt Nam,Kỹ sư,3/17/2024,3/22/2024,Deluxe,2500000,Bóng bàn,Phòng tập hiện đại; Nhà hàng Á; Room Service
+KH211,Emma Thompson,1/11/1993,emma.t@email.com,Nữ,UK123457,901122335,Anh,Nhà văn,3/17/2024,3/24/2024,Executive,4000000,Viết văn,Nhà hàng Âu; Massage & Spa; Lobby Bar
+KH212,Hans Mueller,10/24/1988,hans.m@email.com,Nam,DE234568,912233446,Đức,Kỹ sư,3/18/2024,3/23/2024,Standard,1800000,Chụp ảnh,Phòng họp/Hội nghị; Room Service; Giặt ủi quần áo
+KH213,Lê Thanh Hà,5/6/1995,ltha@email.com,Nữ,P345679,923344557,Việt Nam,Marketing,3/18/2024,3/22/2024,Suite,3500000,Yoga,Massage & Spa; Nhà hàng Á; Hồ bơi ngoài trời
+KH214,Park Min Young,8/19/1990,minyoung.p@email.com,Nữ,KR456780,934455668,Hàn Quốc,Diễn viên,3/18/2024,3/25/2024,Deluxe,2500000,Xem phim,Tổ chức tiệc; Nhà hàng Á; Dịch vụ Concierge
+KH215,Alessandro Rossi,11/2/1987,alex.r@email.com,Nam,IT567891,945566779,Ý,Nhiếp ảnh gia,3/18/2024,3/23/2024,Executive,4000000,Du lịch,Tour tham quan thành phố; Nhà hàng Âu; Xe đưa đón sân bay
+KH216,Nguyễn Thị Mai Anh,2/15/1992,maianh@email.com,Nữ,P678902,956677890,Việt Nam,Giảng viên,3/19/2024,3/24/2024,Standard,1800000,Múa,Phòng tập hiện đại; Massage & Spa; Room Service
+KH217,Lucas Silva,7/28/1989,lucas.s@email.com,Nam,BR789013,967788991,Brazil,Bác sĩ,3/19/2024,3/25/2024,Suite,3500000,Bơi lội,Massage & Spa; Nhà hàng Âu; Hồ bơi ngoài trời
+KH218,Yuki Sato,4/9/1994,yuki.s@email.com,Nữ,JP890124,978899002,Nhật Bản,Nhà thiết kế,3/19/2024,3/23/2024,Deluxe,2500000,Origami,Nhà hàng Á; Lobby Bar; Giặt ủi quần áo
+KH219,Oliver White,9/21/1991,oliver.w@email.com,Nam,UK901235,989900113,Anh,Doanh nhân,3/19/2024,3/26/2024,Executive,4000000,Tennis,Phòng họp/Hội nghị; Nhà hàng Âu; Dịch vụ Concierge
+KH220,Trần Thu Thảo,12/4/1986,tthao@email.com,Nữ,P012346,990011224,Việt Nam,Y tá,3/20/2024,3/25/2024,Standard,1800000,Piano,Tour tham quan thành phố; Room Service; Hồ bơi ngoài trời
+KH221,Antoine Dupont,3/16/1993,antoine.d@email.com,Nam,FR123458,901122336,Pháp,Đầu bếp,3/20/2024,3/26/2024,Suite,3500000,Nướng bánh,Nhà hàng Âu; Massage & Spa; Room Service
+KH222,Liu Mei Ling,8/29/1988,meiling.l@email.com,Nữ,CN234569,912233447,Trung Quốc,Nghệ sĩ,3/20/2024,3/24/2024,Deluxe,2500000,Thư pháp,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH223,Michael O'Connor,1/12/1995,michael.o@email.com,Nam,IE345670,923344558,Ireland,Luật sư,3/20/2024,3/27/2024,Executive,4000000,Đọc truyện,Phòng họp/Hội nghị; Nhà hàng Âu; Xe đưa đón sân bay
+KH224,Lê Minh Tâm,6/25/1990,minhtam@email.com,Nam,P456781,934455669,Việt Nam,Kỹ sư,3/21/2024,3/26/2024,Standard,1800000,Cầu lông,Phòng tập hiện đại; Nhà hàng Á; Giặt ủi quần áo
+KH225,Sofia Garcia,11/8/1987,sofia.g@email.com,Nữ,ES567892,945566780,Tây Ban Nha,Giáo viên,3/21/2024,3/25/2024,Suite,3500000,Flamenco,Tour tham quan thành phố; Massage & Spa; Room Service
+KH226,Viktor Petrov,4/15/1989,viktor.p@email.com,Nam,RU567893,945566781,Nga,Nhà toán học,3/21/2024,3/26/2024,Executive,4000000,Cờ vua,Phòng họp/Hội nghị; Nhà hàng Âu; Room Service
+KH227,Nguyễn Quỳnh Mai,7/28/1994,qmai@email.com,Nữ,P678903,956677891,Việt Nam,Nhà báo,3/21/2024,3/25/2024,Standard,1800000,Viết blog,Nhà hàng Á; Hồ bơi ngoài trời; Giặt ủi quần áo
+KH228,Daniel Schmidt,2/10/1991,daniel.s@email.com,Nam,DE789014,967788992,Đức,Phi công,3/21/2024,3/27/2024,Suite,3500000,Nhiếp ảnh,Tour tham quan thành phố; Massage & Spa; Lobby Bar
+KH229,Akiko Yamamoto,9/23/1988,akiko.y@email.com,Nữ,JP890125,978899003,Nhật Bản,Giáo sư,3/22/2024,3/26/2024,Deluxe,2500000,Trà đạo,Nhà hàng Á; Dịch vụ Concierge; Room Service
+KH230,Lê Văn Thắng,12/5/1993,lvthang@email.com,Nam,P901236,989900114,Việt Nam,Đầu bếp,3/22/2024,3/28/2024,Standard,1800000,Nấu ăn,Nhà hàng Á; Phòng tập hiện đại; Giặt ủi quần áo
+KH231,Isabella Costa,5/18/1990,isabella.c@email.com,Nữ,BR012347,990011225,Brazil,Vũ công,3/22/2024,3/27/2024,Executive,4000000,Samba,Massage & Spa; Hồ bơi ngoài trời; Room Service
+KH232,Mohammed Al-Ahmed,8/30/1987,mohammed.a@email.com,Nam,AE123459,901122337,UAE,Doanh nhân,3/22/2024,3/29/2024,Suite,3500000,Cưỡi ngựa,Phòng họp/Hội nghị; Nhà hàng Âu; Xe đưa đón sân bay
+KH233,Trần Thị Ngọc,11/12/1992,tngoc@email.com,Nữ,P234570,912233448,Việt Nam,Họa sĩ,3/23/2024,3/27/2024,Deluxe,2500000,Hội họa,Tour tham quan thành phố; Nhà hàng Á; Dịch vụ Concierge
+KH234,Pierre Dubois,4/25/1989,pierre.d@email.com,Nam,FR345671,923344559,Pháp,Nhà thiết kế,3/23/2024,3/28/2024,Standard,1800000,Thiết kế,Massage & Spa; Room Service; Giặt ủi quần áo
+KH235,Kim Min Joo,7/7/1994,minjoo.k@email.com,Nữ,KR456782,934455670,Hàn Quốc,Ca sĩ,3/23/2024,3/29/2024,Executive,4000000,Karaoke,Tổ chức tiệc; Nhà hàng Á; Lobby Bar
+KH236,Marco Rossi,2/20/1991,marco.r@email.com,Nam,IT567893,945566782,Ý,Kiến trúc sư,3/23/2024,3/28/2024,Suite,3500000,Phác họa,Phòng họp/Hội nghị; Nhà hàng Âu; Dịch vụ Concierge
+KH237,Phạm Thu Hà,9/3/1988,thuha@email.com,Nữ,P678904,956677892,Việt Nam,Nhạc sĩ,3/24/2024,3/28/2024,Deluxe,2500000,Sáng tác,Massage & Spa; Hồ bơi ngoài trời; Room Service
+KH238,James Wilson,12/16/1993,james.w@email.com,Nam,UK789015,967788993,Anh,Thám tử,3/24/2024,3/30/2024,Standard,1800000,Đọc truyện trinh thám,Nhà hàng Âu; Phòng tập hiện đại; Giặt ủi quần áo
+KH239,Chen Wei Lin,5/29/1990,weili@email.com,Nữ,CN890126,978899004,Trung Quốc,Bác sĩ,3/24/2024,3/29/2024,Executive,4000000,Thư pháp,Tour tham quan thành phố; Nhà hàng Á; Dịch vụ Concierge
+KH240,Ana Martinez,8/11/1987,ana.m@email.com,Nữ,ES901237,989900115,Tây Ban Nha,Vũ công,3/24/2024,3/30/2024,Suite,3500000,Guitar,Massage & Spa; Nhà hàng Âu; Lobby Bar
+KH241,Nguyễn Minh Quân,11/24/1992,minhquan@email.com,Nam,P012348,990011226,Việt Nam,Kỹ sư,3/25/2024,3/29/2024,Deluxe,2500000,Leo núi,Phòng tập hiện đại; Room Service; Giặt ủi quần áo
+KH242,Sophia Anderson,4/6/1989,sophia.a@email.com,Nữ,US123460,901122338,Mỹ,Diễn viên,3/25/2024,3/31/2024,Standard,1800000,Thời trang,Nhà hàng Âu; Hồ bơi ngoài trời; Dịch vụ Concierge
+KH243,Lars Nielsen,7/19/1994,lars.n@email.com,Nam,DK234571,912233449,Đan Mạch,Đạo diễn,3/25/2024,3/30/2024,Executive,4000000,Làm phim,Tổ chức tiệc; Massage & Spa; Room Service
+KH244,Yuki Honda,2/1/1991,yuki.h@email.com,Nữ,JP345672,923344560,Nhật Bản,Nghệ nhân,3/25/2024,3/29/2024,Suite,3500000,Ikebana,Tour tham quan thành phố; Nhà hàng Á; Lobby Bar
+KH245,Trần Đức Minh,9/14/1988,ducminh@email.com,Nam,P456783,934455671,Việt Nam,Luật sư,3/26/2024,3/31/2024,Deluxe,2500000,Bóng rổ,Phòng họp/Hội nghị; Phòng tập hiện đại; Giặt ủi quần áo
+KH246,Maria Gonzalez,12/27/1993,maria.g@email.com,Nữ,MX567894,945566783,Mexico,Đầu bếp,3/26/2024,3/30/2024,Standard,1800000,Làm bánh,Nhà hàng Âu; Room Service; Dịch vụ Concierge
+KH247,Thomas Brown,5/9/1990,thomas.b@email.com,Nam,UK678905,956677893,Anh,Nhà văn,3/26/2024,4/1/2024,Executive,4000000,Sưu tầm tem,Massage & Spa; Nhà hàng Á; Hồ bơi ngoài trời
+KH248,Lin Mei Chen,8/22/1987,meichen@email.com,Nữ,CN789016,967788994,Trung Quốc,Y tá,3/26/2024,3/31/2024,Suite,3500000,Làm vườn,Tour tham quan thành phố; Nhà hàng Âu; Room Service
+KH249,Phạm Văn Đức,11/5/1992,vanduc@email.com,Nam,P890127,978899005,Việt Nam,Giảng viên,3/27/2024,4/1/2024,Deluxe,2500000,Cầu lông,Phòng tập hiện đại; Giặt ủi quần áo; Lobby Bar
+KH250,Emma Thompson,4/18/1989,emma.t@email.com,Nữ,UK901238,989900116,Anh,Nhà báo,3/27/2024,4/2/2024,Standard,1800000,Viết văn,Nhà hàng Âu; Massage & Spa; Dịch vụ Concierge
+KH251,Karl Weber,7/30/1994,karl.w@email.com,Nam,DE012349,990011227,Đức,Kỹ sư,3/27/2024,4/1/2024,Executive,4000000,Nhiếp ảnh,Phòng họp/Hội nghị; Room Service; Xe đưa đón sân bay
+KH252,Sakura Tanaka,2/12/1991,sakura.t@email.com,Nữ,JP123461,901122339,Nhật Bản,Nghệ sĩ,3/27/2024,4/2/2024,Suite,3500000,Thư pháp,Tour tham quan thành phố; Nhà hàng Á; Hồ bơi ngoài trời
+KH253,Lê Thành Nam,9/25/1988,thanhnam@email.com,Nam,P234572,912233450,Việt Nam,Doanh nhân,3/28/2024,4/2/2024,Deluxe,2500000,Tennis,Phòng tập hiện đại; Massage & Spa; Giặt ủi quần áo
+KH254,Sofia Rossi,12/8/1993,sofia.r@email.com,Nữ,IT345673,923344561,Ý,Vũ công,3/28/2024,4/3/2024,Standard,1800000,Piano,Nhà hàng Âu; Room Service; Lobby Bar
+KH255,Park Jin Young,5/21/1990,jinyoung.p@email.com,Nam,KR456784,934455672,Hàn Quốc,Ca sĩ,3/28/2024,4/2/2024,Executive,4000000,Beatbox,Tổ chức tiệc; Nhà hàng Á; Dịch vụ Concierge
+KH256,Marie Leclerc,8/3/1987,marie.l@email.com,Nữ,FR567895,945566784,Pháp,Nhà thiết kế,3/28/2024,4/3/2024,Suite,3500000,Vẽ thời trang,Massage & Spa; Nhà hàng Âu; Room Service
+KH257,Trần Thị Hoa,11/16/1992,tthoa@email.com,Nữ,P678906,956677894,Việt Nam,Giáo viên,3/29/2024,4/3/2024,Deluxe,2500000,Đan len,Tour tham quan thành phố; Hồ bơi ngoài trời; Giặt ủi quần áo
+KH258,Alex Thompson,4/29/1989,alex.t@email.com,Nam,US789017,967788995,Mỹ,Nhiếp ảnh gia,3/29/2024,4/4/2024,Standard,1800000,Quay phim,Nhà hàng Á; Phòng tập hiện đại; Lobby Bar
+KH259,Liu Wei,7/11/1994,liu.w@email.com,Nam,CN890128,978899006,Trung Quốc,Bác sĩ,3/29/2024,4/3/2024,Executive,4000000,Thiền,Massage & Spa; Room Service; Dịch vụ Concierge
+KH260,Isabella Santos,2/24/1991,isabel.s@email.com,Nữ,BR901239,989900117,Brazil,Luật sư,3/29/2024,4/4/2024,Suite,3500000,Nhảy samba,Phòng họp/Hội nghị; Nhà hàng Âu; Xe đưa đón sân bay
+KH261,Nguyễn Hoàng Long,9/6/1988,hoanglong@email.com,Nam,P012350,990011228,Việt Nam,Kỹ sư,3/30/2024,4/4/2024,Deluxe,2500000,Bóng đá,Phòng tập hiện đại; Nhà hàng Á; Giặt ủi quần áo
+KH262,Anna Kowalski,12/19/1993,anna.k@email.com,Nữ,PL123462,901122340,Ba Lan,Nghệ sĩ,3/30/2024,4/5/2024,Standard,1800000,Vẽ tranh,Tour tham quan thành phố; Massage & Spa; Room Service
+KH263,Lars Svensson,6/15/1990,lars.s@email.com,Nam,SE234573,912233451,Thụy Điển,Kỹ sư phần mềm,3/30/2024,4/5/2024,Executive,4000000,Trượt tuyết,Phòng họp/Hội nghị; Nhà hàng Âu; Room Service
+KH264,Trương Mỹ Linh,3/28/1992,mylinh@email.com,Nữ,P345674,923344562,Việt Nam,Biên tập viên,3/30/2024,4/4/2024,Deluxe,2500000,Trang điểm,Massage & Spa; Nhà hàng Á; Dịch vụ Concierge
+KH265,Raj Patel,11/10/1988,raj.p@email.com,Nam,IN456785,934455673,Ấn Độ,Bác sĩ,3/31/2024,4/6/2024,Suite,3500000,Yoga,Massage & Spa; Phòng tập hiện đại; Room Service
+KH266,Nina Ivanova,8/22/1993,nina.i@email.com,Nữ,RU567896,945566785,Nga,Vũ công ballet,3/31/2024,4/5/2024,Standard,1800000,Múa ballet,Hồ bơi ngoài trời; Nhà hàng Âu; Giặt ủi quần áo
+KH267,Phạm Minh Tuấn,1/5/1991,minhtuan@email.com,Nam,P678907,956677895,Việt Nam,Kiến trúc sư,3/31/2024,4/6/2024,Executive,4000000,Vẽ phối cảnh,Tour tham quan thành phố; Nhà hàng Á; Lobby Bar
+KH268,Carmen Rodriguez,4/17/1989,carmen.r@email.com,Nữ,ES789018,967788996,Tây Ban Nha,Nghệ sĩ guitar,3/31/2024,4/5/2024,Deluxe,2500000,Flamenco,Tổ chức tiệc; Massage & Spa; Room Service
+KH269,Kenji Tanaka,9/30/1994,kenji.t@email.com,Nam,JP890129,978899007,Nhật Bản,Đầu bếp,4/1/2024,4/7/2024,Suite,3500000,Làm sushi,Nhà hàng Á; Phòng tập hiện đại; Dịch vụ Concierge
+KH270,Lê Thị Hương,12/12/1987,lhuong@email.com,Nữ,P901240,989900118,Việt Nam,Giáo viên yoga,4/1/2024,4/5/2024,Standard,1800000,Thiền định,Massage & Spa; Hồ bơi ngoài trời; Room Service
+KH271,Antoine Bernard,5/25/1992,antoine.b@email.com,Nam,FR012351,990011229,Pháp,Nhà thiết kế thời trang,4/1/2024,4/7/2024,Executive,4000000,Vẽ thiết kế,Phòng họp/Hội nghị; Nhà hàng Âu; Giặt ủi quần áo
+KH272,Zhang Wei,10/8/1990,zhang.w@email.com,Nam,CN123463,901122341,Trung Quốc,Thương gia,4/1/2024,4/6/2024,Deluxe,2500000,Thư pháp,Tour tham quan thành phố; Nhà hàng Á; Lobby Bar
+KH273,Sarah O'Connor,3/20/1988,sarah.o@email.com,Nữ,IE234574,912233452,Ireland,Nhà văn,4/2/2024,4/8/2024,Suite,3500000,Viết thơ,Massage & Spa; Nhà hàng Âu; Room Service
+KH274,Nguyễn Đức Thịnh,6/3/1993,ducthinh@email.com,Nam,P345675,923344563,Việt Nam,Kỹ sư cơ khí,4/2/2024,4/6/2024,Standard,1800000,Chế tạo mô hình,Phòng tập hiện đại; Nhà hàng Á; Dịch vụ Concierge
+KH275,Elena Popov,9/15/1991,elena.p@email.com,Nữ,RU456786,934455674,Nga,Nhà sinh vật học,4/2/2024,4/8/2024,Executive,4000000,Quan sát chim,Tour tham quan thành phố; Massage & Spa; Room Service
+KH276,Marcus Andersen,2/28/1989,marcus.a@email.com,Nam,DK567897,945566786,Đan Mạch,Đạo diễn,4/2/2024,4/7/2024,Deluxe,2500000,Quay phim,Tổ chức tiệc; Nhà hàng Âu; Lobby Bar
+KH277,Trần Bảo Ngọc,7/10/1994,baongoc@email.com,Nữ,P678908,956677896,Việt Nam,Ca sĩ,4/3/2024,4/9/2024,Suite,3500000,Sáng tác nhạc,Massage & Spa; Nhà hàng Á; Giặt ủi quần áo
+KH278,Felipe Santos,12/23/1987,felipe.s@email.com,Nam,BR789019,967788997,Brazil,Huấn luyện viên,4/3/2024,4/7/2024,Standard,1800000,Bóng đá,Phòng tập hiện đại; Hồ bơi ngoài trời; Room Service
+KH279,Aisha Mohammed,3/5/1992,aisha.m@email.com,Nữ,AE890130,978899008,UAE,Nhà thiết kế nội thất,4/3/2024,4/9/2024,Executive,4000000,Trang trí nội thất,Phòng họp/Hội nghị; Nhà hàng Âu; Dịch vụ Concierge
+KH280,Park Min Ho,8/18/1990,minho.p@email.com,Nam,KR901241,989900119,Hàn Quốc,Nhạc sĩ,4/3/2024,4/8/2024,Deluxe,2500000,Chơi violin,Tour tham quan thành phố; Massage & Spa; Room Service
+KH281,Võ Thanh Tùng,1/30/1988,thanhtung@email.com,Nam,P012352,990011230,Việt Nam,Nhiếp ảnh gia,4/4/2024,4/10/2024,Suite,3500000,Chụp ảnh phong cảnh,Nhà hàng Á; Hồ bơi ngoài trời; Lobby Bar
+KH282,Lucia Romano,4/12/1993,lucia.r@email.com,Nữ,IT123464,901122342,Ý,Nghệ sĩ opera,4/4/2024,4/8/2024,Standard,1800000,Hát opera,Tổ chức tiệc; Nhà hàng Âu; Giặt ủi quần áo
+KH283,Johan van der Berg,7/25/1991,johan.v@email.com,Nam,NL234575,912233453,Hà Lan,Kiến trúc sư cảnh quan,4/4/2024,4/10/2024,Executive,4000000,Làm vườn,Massage & Spa; Phòng tập hiện đại; Room Service
+KH284,Mai Thị Lan,10/7/1989,mailan@email.com,Nữ,P345676,923344564,Việt Nam,Nhà văn,4/4/2024,4/9/2024,Deluxe,2500000,Viết truyện ngắn,Tour tham quan thành phố; Nhà hàng Á; Dịch vụ Concierge
+KH285,Gustav Nilsson,1/20/1994,gustav.n@email.com,Nam,SE456787,934455675,Thụy Điển,Nhà thiết kế game,4/5/2024,4/11/2024,Suite,3500000,Lập trình game,Phòng họp/Hội nghị; Massage & Spa; Room Service
+KH286,Diana Chen,6/2/1987,diana.c@email.com,Nữ,CN567898,945566787,Singapore,Bác sĩ da liễu,4/5/2024,4/9/2024,Standard,1800000,Nghiên cứu thảo dược,Nhà hàng Âu; Hồ bơi ngoài trời; Giặt ủi quần áo
+KH287,Nguyễn Công Vinh,9/15/1992,congvinh@email.com,Nam,P678909,956677897,Việt Nam,HLV thể hình,4/5/2024,4/11/2024,Executive,4000000,Tập gym,Phòng tập hiện đại; Nhà hàng Á; Lobby Bar
+KH288,Anastasia Kuznetsova,12/28/1990,anastasia.k@email.com,Nữ,RU789020,967788998,Nga,Người mẫu,4/5/2024,4/10/2024,Deluxe,2500000,Yoga nâng cao,Massage & Spa; Tour tham quan thành phố; Room Service
+KH289,Ricardo Silva,3/10/1988,ricardo.s@email.com,Nam,BR890131,978899009,Brazil,DJ,4/6/2024,4/12/2024,Suite,3500000,Mix nhạc,Tổ chức tiệc; Nhà hàng Âu; Dịch vụ Concierge
+KH290,Trần Thị Mai,6/23/1993,tranmai@email.com,Nữ,P901242,989900120,Việt Nam,Họa sĩ,4/6/2024,4/10/2024,Standard,1800000,Vẽ tranh sơn dầu,Massage & Spa; Nhà hàng Á; Giặt ủi quần áo
+KH291,Alexander Müller,9/5/1991,alex.m@email.com,Nam,DE012353,990011231,Đức,Nhà khoa học,4/6/2024,4/12/2024,Executive,4000000,Thiên văn học,Phòng họp/Hội nghị; Hồ bơi ngoài trời; Room Service
+KH292,Yuki Sato,12/18/1989,yuki.s@email.com,Nữ,JP123465,901122343,Nhật Bản,Chuyên gia trà đạo,4/6/2024,4/11/2024,Deluxe,2500000,Nghệ thuật trà đạo,Tour tham quan thành phố; Nhà hàng Á; Lobby Bar
+KH293,Lê Văn Nam,3/30/1994,lenam@email.com,Nam,P234576,912233454,Việt Nam,Kỹ sư điện,4/7/2024,4/13/2024,Suite,3500000,Chơi saxophone,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH294,Isabella Martinez,7/13/1987,isabella.m@email.com,Nữ,ES345677,923344565,Mexico,Đầu bếp,4/7/2024,4/11/2024,Standard,1800000,Nấu ăn Mexico,Nhà hàng Á; Phòng tập hiện đại; Room Service
+KH295,Oliver Wilson,10/25/1992,oliver.w@email.com,Nam,UK456788,934455676,Anh,Nhà báo,4/7/2024,4/13/2024,Executive,4000000,Viết blog du lịch,Tour tham quan thành phố; Massage & Spa; Giặt ủi quần áo
+KH296,Nguyễn Thị Thảo,1/7/1990,nthao@email.com,Nữ,P567899,945566788,Việt Nam,Giáo viên piano,4/7/2024,4/12/2024,Deluxe,2500000,Chơi piano cổ điển,Tổ chức tiệc; Nhà hàng Âu; Lobby Bar
+KH297,Henri Leclerc,4/20/1988,henri.l@email.com,Nam,FR678910,956677898,Pháp,Nhà thiết kế đồ họa,4/8/2024,4/14/2024,Suite,3500000,Vẽ digital art,Phòng họp/Hội nghị; Nhà hàng Á; Room Service
+KH298,Liu Yan,7/2/1993,liu.y@email.com,Nữ,CN789021,967788999,Trung Quốc,Giáo viên võ thuật,4/8/2024,4/12/2024,Standard,1800000,Thái cực quyền,Phòng tập hiện đại; Massage & Spa; Dịch vụ Concierge
+KH299,Michael O'Brien,10/15/1991,michael.o@email.com,Nam,IE890132,978899010,Ireland,Nhà báo,4/8/2024,4/14/2024,Executive,4000000,Viết truyện ngắn,Tour tham quan thành phố; Nhà hàng Âu; Room Service
+KH300,Đặng Thu Thảo,1/28/1989,dtthao@email.com,Nữ,P901243,989900121,Việt Nam,Nhà tạo mẫu tóc,4/8/2024,4/13/2024,Deluxe,2500000,Làm đẹp,Massage & Spa; Nhà hàng Á; Giặt ủi quần áo
+KH301,Ahmed Hassan,5/10/1994,ahmed.h@email.com,Nam,EG012354,990011232,Ai Cập,Nhà khảo cổ,4/9/2024,4/15/2024,Suite,3500000,Khảo cổ học,Phòng họp/Hội nghị; Hồ bơi ngoài trời; Lobby Bar
+KH302,Sofia Andersson,8/23/1987,sofia.a@email.com,Nữ,SE123466,901122344,Thụy Điển,Nhà thiết kế nội thất,4/9/2024,4/14/2024,Standard,1800000,Trang trí nhà cửa,Nhà hàng Âu; Massage & Spa; Dịch vụ Concierge
+KH303,Nguyễn Hoàng Phúc,11/5/1992,hoangphuc@email.com,Nam,P234577,912233455,Việt Nam,Nghệ sĩ guitar,4/9/2024,4/15/2024,Executive,4000000,Fingerstyle guitar,Tổ chức tiệc; Nhà hàng Á; Room Service
+KH304,Marina Ivanova,2/18/1990,marina.i@email.com,Nữ,RU345678,923344566,Nga,Vận động viên thể dục,4/9/2024,4/14/2024,Deluxe,2500000,Thể dục nghệ thuật,Phòng tập hiện đại; Tour tham quan thành phố; Giặt ủi quần áo
+KH305,Carlos Mendoza,5/30/1988,carlos.m@email.com,Nam,MX456789,934455677,Mexico,Đầu bếp,4/10/2024,4/16/2024,Suite,3500000,Ẩm thực Mexico,Nhà hàng Âu; Massage & Spa; Lobby Bar
+KH306,Trần Thị Phương,9/12/1993,ttphuong@email.com,Nữ,P567900,945566789,Việt Nam,Nhà thiết kế thời trang,4/10/2024,4/15/2024,Standard,1800000,May váy cưới,Phòng họp/Hội nghị; Nhà hàng Á; Room Service
+KH307,Leo Fischer,12/25/1991,leo.f@email.com,Nam,DE678911,956677899,Đức,Kỹ sư ô tô,4/10/2024,4/16/2024,Executive,4000000,Lái xe đua,Tour tham quan thành phố; Hồ bơi ngoài trời; Dịch vụ Concierge
+KH308,Haruka Tanaka,3/7/1989,haruka.t@email.com,Nữ,JP789022,967789000,Nhật Bản,Nghệ nhân origami,4/10/2024,4/15/2024,Deluxe,2500000,Nghệ thuật giấy,Massage & Spa; Nhà hàng Á; Giặt ủi quần áo
+KH309,Phạm Quang Huy,6/20/1994,quanghuy@email.com,Nam,P890133,978899011,Việt Nam,Phi công,4/11/2024,4/17/2024,Suite,3500000,Bay mô hình,Phòng tập hiện đại; Nhà hàng Âu; Room Service
+KH310,Emma Watson,9/2/1987,emma.w@email.com,Nữ,UK901244,989900122,Anh,Nhà văn,4/11/2024,4/16/2024,Standard,1800000,Viết tiểu thuyết,Tour tham quan thành phố; Massage & Spa; Lobby Bar
+KH311,Kim Ji Woo,12/15/1992,jiwoo.k@email.com,Nam,KR012355,990011233,Hàn Quốc,Nhà sản xuất âm nhạc,4/11/2024,4/17/2024,Executive,4000000,Sản xuất nhạc,Tổ chức tiệc; Nhà hàng Á; Dịch vụ Concierge
+KH312,Anna Kowalska,3/28/1990,anna.k@email.com,Nữ,PL123467,901122345,Ba Lan,Vũ công ba lê,4/11/2024,4/16/2024,Deluxe,2500000,Múa ba lê,Phòng tập hiện đại; Nhà hàng Âu; Giặt ủi quần áo
+KH313,Nguyễn Văn Toàn,7/10/1988,vantoan@email.com,Nam,P234578,912233456,Việt Nam,Huấn luyện viên bơi lội,4/12/2024,4/18/2024,Suite,3500000,Bơi lội,Hồ bơi ngoài trời; Massage & Spa; Room Service
+KH314,Isabella Ross,10/23/1993,isabella.r@email.com,Nữ,US345679,923344567,Mỹ,Nhà thiết kế trang sức,4/12/2024,4/17/2024,Standard,1800000,Chế tác trang sức,Tour tham quan thành phố; Nhà hàng Á; Lobby Bar
+KH315,Mario Rossi,1/5/1991,mario.r@email.com,Nam,IT456790,934455678,Ý,Thợ làm rượu vang,4/12/2024,4/18/2024,Executive,4000000,Nếm rượu vang,Nhà hàng Âu; Phòng họp/Hội nghị; Dịch vụ Concierge
+KH316,Lê Thanh Hà,4/18/1989,thanhha@email.com,Nữ,P567901,945566790,Việt Nam,Nghệ sĩ sáo trúc,4/12/2024,4/17/2024,Deluxe,2500000,Thổi sáo,Massage & Spa; Hồ bơi ngoài trời; Giặt ủi quần áo
+KH317,Erik Larsson,7/30/1994,erik.l@email.com,Nam,SE678912,956677900,Thụy Điển,Nhiếp ảnh gia,4/13/2024,4/19/2024,Suite,3500000,Chụp ảnh thiên nhiên,Tour tham quan thành phố; Nhà hàng Âu; Room Service
+KH318,Chen Xiuying,11/12/1987,xiuying.c@email.com,Nữ,CN789023,967789001,Trung Quốc,Nghệ nhân trà,4/13/2024,4/18/2024,Standard,1800000,Nghệ thuật trà,Nhà hàng Á; Massage & Spa; Lobby Bar
+KH319,Trần Đức Thắng,2/24/1992,ducthang@email.com,Nam,P890134,978899012,Việt Nam,Kỹ sư phần mềm,4/13/2024,4/19/2024,Executive,4000000,Lập trình AI,Phòng họp/Hội nghị; Phòng tập hiện đại; Dịch vụ Concierge
+KH320,Maria Garcia,6/7/1990,maria.g@email.com,Nữ,ES901245,989900123,Tây Ban Nha,Nghệ sĩ flamenco,4/13/2024,4/18/2024,Deluxe,2500000,Múa flamenco,Tổ chức tiệc; Nhà hàng Âu; Giặt ủi quần áo
+KH321,Hiroshi Tanaka,9/19/1988,hiroshi.t@email.com,Nam,JP012356,990011234,Nhật Bản,Kiếm sĩ Kendo,4/14/2024,4/20/2024,Suite,3500000,Kendo,Phòng tập hiện đại; Massage & Spa; Room Service
+KH322,Nguyễn Thị Lan Anh,12/2/1993,lananh@email.com,Nữ,P123468,901122346,Việt Nam,Nhà văn,4/14/2024,4/19/2024,Standard,1800000,Sáng tác thơ,Tour tham quan thành phố; Nhà hàng Á; Lobby Bar
+KH323,Antoine Dubois,3/15/1991,antoine.d@email.com,Nam,FR234579,912233457,Pháp,Kiến trúc sư,4/14/2024,4/20/2024,Executive,4000000,Vẽ phác thảo,Phòng họp/Hội nghị; Nhà hàng Âu; Dịch vụ Concierge
+KH324,Sofia Costa,6/27/1989,sofia.c@email.com,Nữ,PT345680,923344568,Bồ Đào Nha,Nghệ sĩ gốm sứ,4/14/2024,4/19/2024,Deluxe,2500000,Làm gốm,Massage & Spa; Hồ bơi ngoài trời; Giặt ủi quần áo
+KH325,Phạm Văn Đức,10/9/1994,vanduc@email.com,Nam,P456791,934455679,Việt Nam,Võ sư,4/15/2024,4/21/2024,Suite,3500000,Võ thuật cổ truyền,Phòng tập hiện đại; Nhà hàng Á; Room Service
+KH326,Lisa Anderson,1/22/1987,lisa.a@email.com,Nữ,US567902,945566791,Mỹ,Nhà thiết kế game,4/15/2024,4/20/2024,Standard,1800000,Game design,Tour tham quan thành phố; Massage & Spa; Lobby Bar
+KH327,Marco Vitali,4/4/1992,marco.v@email.com,Nam,IT678913,956677901,Ý,Nhạc trưởng,4/15/2024,4/21/2024,Executive,4000000,Chỉ huy dàn nhạc,Tổ chức tiệc; Nhà hàng Âu; Dịch vụ Concierge
+KH328,Trần Thị Mai Anh,7/17/1990,maianh@email.com,Nữ,P789024,967789002,Việt Nam,Họa sĩ,4/15/2024,4/20/2024,Deluxe,2500000,Vẽ tranh thủy mặc,Massage & Spa; Nhà hàng Á; Giặt ủi quần áo
+KH329,Alexander Petrov,10/29/1988,alex.p@email.com,Nam,RU890135,978899013,Nga,Vận động viên trượt băng,4/16/2024,4/22/2024,Suite,3500000,Trượt băng nghệ thuật,Phòng tập hiện đại; Hồ bơi ngoài trời; Room Service
+KH330,Kim Soo Jin,2/11/1993,soojin.k@email.com,Nữ,KR901246,989900124,Hàn Quốc,Chuyên gia trang điểm,4/16/2024,4/21/2024,Standard,1800000,Makeup artist,Tour tham quan thành phố; Nhà hàng Âu; Lobby Bar
+KH331,Nguyễn Hoàng Nam,5/24/1991,hoangnam@email.com,Nam,P012357,990011235,Việt Nam,DJ,4/16/2024,4/22/2024,Executive,4000000,Sáng tác EDM,Tổ chức tiệc; Massage & Spa; Dịch vụ Concierge
+KH332,Erik Anderson,6/15/1991,erik.a@email.com,Nam,SE567890,912345680,Thụy Điển,Game developer,4/10/2024,4/15/2024,Suite,3500000,Chơi game,Phòng họp/Hội nghị; Nhà hàng Âu; Room Service
+KH333,Phạm Thị Quỳnh,3/22/1989,ptquynh@email.com,Nữ,P678911,923456791,Việt Nam,Thợ làm bánh,4/10/2024,4/14/2024,Deluxe,2500000,Làm bánh nghệ thuật,Nhà hàng Á; Massage & Spa; Dịch vụ Concierge
+KH334,Carlos Silva,8/30/1994,carlos.s@email.com,Nam,PT789022,934567802,Bồ Đào Nha,Cầu thủ bóng đá,4/10/2024,4/16/2024,Executive,4000000,Futsal,Phòng tập hiện đại; Hồ bơi ngoài trời; Giặt ủi quần áo
+KH335,Naomi Sato,11/5/1992,naomi.s@email.com,Nữ,JP890133,945678913,Nhật Bản,Nghệ nhân gốm,4/10/2024,4/15/2024,Standard,1800000,Làm gốm,Tour tham quan thành phố; Nhà hàng Á; Room Service
+KH336,Trần Quốc Bảo,2/18/1987,quocbao@email.com,Nam,P901244,956789024,Việt Nam,Nhạc sĩ,4/11/2024,4/17/2024,Suite,3500000,Sáng tác nhạc jazz,Tổ chức tiệc; Massage & Spa; Lobby Bar
+KH337,Marie Dubois,5/25/1993,marie.d@email.com,Nữ,FR012355,967890135,Pháp,Nhà thiết kế nước hoa,4/11/2024,4/15/2024,Deluxe,2500000,Pha chế nước hoa,Nhà hàng Âu; Room Service; Dịch vụ Concierge
+KH338,Ahmed Hassan,10/8/1990,ahmed.h@email.com,Nam,EG123466,978901246,Ai Cập,Nhà khảo cổ học,4/11/2024,4/17/2024,Executive,4000000,Nghiên cứu lịch sử,Phòng họp/Hội nghị; Tour tham quan thành phố; Giặt ủi quần áo
+KH339,Nguyễn Thị Lan Anh,1/12/1988,lananh@email.com,Nữ,P234577,989012357,Việt Nam,Biên dịch viên,4/11/2024,4/16/2024,Standard,1800000,Học ngôn ngữ,Nhà hàng Á; Hồ bơi ngoài trời; Room Service
+KH340,Marco Rossi,4/28/1995,marco.r@email.com,Nam,IT345678,990123468,Ý,Thợ làm giày,4/12/2024,4/18/2024,Suite,3500000,Thiết kế giày,Massage & Spa; Nhà hàng Âu; Dịch vụ Concierge
+KH341,Kim Soo Jin,7/15/1991,soojin.k@email.com,Nữ,KR456789,901234579,Hàn Quốc,Chuyên gia làm đẹp,4/12/2024,4/16/2024,Deluxe,2500000,Trang điểm nghệ thuật,Tour tham quan thành phố; Nhà hàng Á; Room Service
+KH342,Lê Văn Hùng,12/20/1989,lvhung@email.com,Nam,P567890,912345680,Việt Nam,Kỹ sư phần mềm,4/12/2024,4/18/2024,Executive,4000000,Lập trình AI,Phòng họp/Hội nghị; Phòng tập hiện đại; Lobby Bar
+KH343,Sofia Mendoza,3/5/1993,sofia.m@email.com,Nữ,ES678901,923456791,Tây Ban Nha,Nghệ sĩ flamenco,4/12/2024,4/17/2024,Standard,1800000,Múa flamenco,Tổ chức tiệc; Massage & Spa; Giặt ủi quần áo
+KH344,William Chen,6/18/1990,william.c@email.com,Nam,SG789012,934567802,Singapore,Chuyên gia tài chính,4/13/2024,4/19/2024,Suite,3500000,Đầu tư crypto,Nhà hàng Âu; Room Service; Dịch vụ Concierge
+KH345,Trần Mai Phương,9/25/1988,maiphuong@email.com,Nữ,P890123,945678913,Việt Nam,Nhà văn,4/13/2024,4/17/2024,Deluxe,2500000,Viết tiểu thuyết,Tour tham quan thành phố; Nhà hàng Á; Hồ bơi ngoài trời
+KH346,Lars Nielsen,12/8/1994,lars.n@email.com,Nam,DK901234,956789024,Đan Mạch,Đầu bếp,4/13/2024,4/19/2024,Executive,4000000,Nấu ăn Bắc Âu,Nhà hàng Âu; Massage & Spa; Room Service
+KH347,Hannah Kim,3/15/1992,hannah.k@email.com,Nữ,US012345,967890135,Mỹ,Nhà thiết kế trang sức,4/13/2024,4/18/2024,Standard,1800000,Chế tác trang sức,Phòng họp/Hội nghị; Nhà hàng Á; Lobby Bar
+KH348,Phạm Đức Thắng,6/28/1987,pdthang@email.com,Nam,P123456,978901246,Việt Nam,Huấn luyện viên yoga,4/14/2024,4/20/2024,Suite,3500000,Thiền,Massage & Spa; Phòng tập hiện đại; Dịch vụ Concierge
+KH349,Elena Petrova,9/10/1993,elena.p@email.com,Nữ,RU234567,989012357,Nga,Vận động viên thể dục,4/14/2024,4/18/2024,Deluxe,2500000,Thể dục nghệ thuật,Tour tham quan thành phố; Hồ bơi ngoài trời; Room Service
+KH350,James Wilson,12/23/1990,james.w@email.com,Nam,UK345678,990123468,Anh,Nhà sản xuất phim,4/14/2024,4/20/2024,Executive,4000000,Làm phim tài liệu,Tổ chức tiệc; Nhà hàng Âu; Giặt ủi quần áo
+KH351,Nguyễn Thị Hà,3/7/1988,ntha@email.com,Nữ,P456789,901234579,Việt Nam,Nghệ sĩ tranh thủy mặc,4/14/2024,4/19/2024,Standard,1800000,Vẽ tranh thủy mặc,Massage & Spa; Nhà hàng Á; Room Service
+KH352,Antonio Ferrari,6/20/1995,antonio.f@email.com,Nam,IT567890,912345680,Ý,Kỹ sư ô tô,4/15/2024,4/21/2024,Suite,3500000,Thiết kế xe,Phòng họp/Hội nghị; Tour tham quan thành phố; Lobby Bar
+KH353,Park Min Ji,9/2/1991,minji.p@email.com,Nữ,KR678901,923456791,Hàn Quốc,Beauty blogger,4/15/2024,4/19/2024,Deluxe,2500000,Review mỹ phẩm,Nhà hàng Á; Massage & Spa; Dịch vụ Concierge
+KH354,Lê Thành Đạt,12/15/1989,thanhdat@email.com,Nam,P789012,934567802,Việt Nam,Kiến trúc sư,4/15/2024,4/21/2024,Executive,4000000,Thiết kế nội thất,Phòng họp/Hội nghị; Nhà hàng Âu; Room Service
+KH355,Maria Gonzalez,3/28/1993,maria.g@email.com,Nữ,ES890123,945678913,Tây Ban Nha,Giáo viên nhảy,4/15/2024,4/20/2024,Standard,1800000,Nhảy salsa,Tổ chức tiệc; Hồ bơi ngoài trời; Giặt ủi quần áo
+KH356,Thomas Brown,7/10/1990,thomas.b@email.com,Nam,AU901234,956789024,Úc,Nhiếp ảnh gia,4/16/2024,4/22/2024,Suite,3500000,Chụp ảnh động vật,Tour tham quan thành phố; Massage & Spa; Room Service
+KH357,Trần Thu Thảo,10/23/1988,tthao@email.com,Nữ,P012345,967890135,Việt Nam,MC,4/16/2024,4/20/2024,Deluxe,2500000,Dẫn chương trình,Nhà hàng Á; Phòng tập hiện đại; Lobby Bar
+KH358,Hans Weber,1/5/1994,hans.w@email.com,Nam,DE123456,978901246,Đức,Nhà khoa học,4/16/2024,4/22/2024,Executive,4000000,Nghiên cứu sinh học,Phòng họp/Hội nghị; Nhà hàng Âu; Dịch vụ Concierge
+KH359,Yuki Tanaka,4/18/1992,yuki.t@email.com,Nữ,JP234567,989012357,Nhật Bản,Nghệ nhân origami,4/16/2024,4/21/2024,Standard,1800000,Gấp giấy nghệ thuật,Tour tham quan thành phố; Massage & Spa; Room Service
+KH360,Gabriel Martinez,3/15/1990,gabriel.m@email.com,Nam,AR567890,912345680,Argentina,Giáo viên,4/10/2024,4/15/2024,Suite,3500000,Tango,Nhà hàng Âu; Room Service
+KH361,Nguyễn Thu Hà,6/28/1993,thuha@email.com,Nữ,P678901,923456791,Việt Nam,Nhà văn,4/10/2024,4/14/2024,Deluxe,2500000,Đọc sách,Massage & Spa
+KH362,Henrik Larsson,9/10/1988,henrik.l@email.com,Nam,SE789012,934567802,Thụy Điển,Kỹ sư,4/10/2024,4/16/2024,Executive,4000000,Đạp xe,Phòng tập hiện đại
+KH363,Yuna Kim,12/23/1995,yuna.k@email.com,Nữ,KR890123,945678913,Hàn Quốc,Ca sĩ,4/11/2024,4/15/2024,Standard,1800000,Hát,Nhà hàng Á; Dịch vụ Concierge
+KH364,Lê Minh Đức,3/5/1991,minhduc@email.com,Nam,P901234,956789024,Việt Nam,Bác sĩ,4/11/2024,4/17/2024,Suite,3500000,Chơi cờ,Tour tham quan thành phố
+KH365,Sofia Bianchi,6/18/1989,sofia.b@email.com,Nữ,IT012345,967890135,Ý,Kiến trúc sư,4/11/2024,4/16/2024,Deluxe,2500000,Vẽ,Massage & Spa; Hồ bơi ngoài trời
+KH366,Ahmed Hassan,9/30/1994,ahmed.h@email.com,Nam,EG123456,978901246,Ai Cập,Doanh nhân,4/12/2024,4/18/2024,Executive,4000000,Cờ vua,Phòng họp/Hội nghị
+KH367,Trần Thị Lan,1/12/1992,lantt@email.com,Nữ,P234567,989012357,Việt Nam,Giáo viên yoga,4/12/2024,4/16/2024,Standard,1800000,Thiền,Massage & Spa
+KH368,Carlos Silva,4/25/1987,carlos.s@email.com,Nam,BR345678,990123468,Brazil,Vũ công,4/12/2024,4/18/2024,Suite,3500000,Capoeira,Nhà hàng Á; Phòng tập hiện đại
+KH369,Marie Dubois,7/7/1993,marie.d@email.com,Nữ,FR456789,901234579,Pháp,Đầu bếp,4/13/2024,4/17/2024,Deluxe,2500000,Nấu ăn,Nhà hàng Âu
+KH370,Nguyễn Văn Hùng,10/20/1990,hungnv@email.com,Nam,P567890,912345680,Việt Nam,Kỹ sư IT,4/13/2024,4/19/2024,Executive,4000000,Lập trình,Room Service
+KH371,Emma Wilson,1/2/1988,emma.w@email.com,Nữ,UK678901,923456791,Anh,Nhà báo,4/13/2024,4/18/2024,Standard,1800000,Viết,Tour tham quan thành phố
+KH372,Liu Wei,4/15/1995,liu.w@email.com,Nam,CN789012,934567802,Trung Quốc,Họa sĩ,4/14/2024,4/20/2024,Suite,3500000,Thư pháp,Massage & Spa
+KH373,Phạm Thanh Mai,7/28/1991,maipthanh@email.com,Nữ,P890123,945678913,Việt Nam,Diễn viên,4/14/2024,4/19/2024,Deluxe,2500000,Múa,Nhà hàng Á; Hồ bơi ngoài trời
+KH374,Marco Rossi,10/10/1989,marco.r@email.com,Nam,IT901234,956789024,Ý,Nhiếp ảnh gia,4/14/2024,4/20/2024,Executive,4000000,Chụp ảnh,Tour tham quan thành phố
+KH375,Anna Schmidt,1/23/1994,anna.s@email.com,Nữ,DE012345,967890135,Đức,Nhạc sĩ,4/15/2024,4/19/2024,Standard,1800000,Violin,Nhà hàng Âu
+KH376,Trần Đức Long,4/5/1992,longduc@email.com,Nam,P123456,978901246,Việt Nam,Luật sư,4/15/2024,4/21/2024,Suite,3500000,Bơi lội,Hồ bơi ngoài trời
+KH377,Sophia Lee,7/18/1987,sophia.l@email.com,Nữ,SG234567,989012357,Singapore,Marketing,4/15/2024,4/20/2024,Deluxe,2500000,Vẽ tranh,Massage & Spa; Room Service
+KH378,David Miller,10/30/1993,david.m@email.com,Nam,US345678,990123468,Mỹ,Giảng viên,4/16/2024,4/22/2024,Executive,4000000,Đánh golf,Phòng họp/Hội nghị
+KH379,Lê Thị Ngọc,1/12/1990,ngocle@email.com,Nữ,P456789,901234579,Việt Nam,Y tá,4/16/2024,4/21/2024,Standard,1800000,Làm bánh,Nhà hàng Á
+KH380,Pierre Lefevre,4/25/1988,pierre.l@email.com,Nam,FR567890,912345680,Pháp,Kiến trúc sư,4/16/2024,4/22/2024,Suite,3500000,Cắm hoa,Tour tham quan thành phố
+KH381,Mai Anh Đào,7/7/1995,anhDao@email.com,Nữ,P678901,923456791,Việt Nam,Ca sĩ,4/17/2024,4/21/2024,Deluxe,2500000,Karaoke,Nhà hàng Âu; Room Service
+KH382,Hiroshi Sato,10/20/1991,hiroshi.s@email.com,Nam,JP789012,934567802,Nhật Bản,Đầu bếp,4/17/2024,4/23/2024,Executive,4000000,Làm sushi,Nhà hàng Á
+KH383,Elena Petrova,1/2/1989,elena.p@email.com,Nữ,RU890123,945678913,Nga,Vũ công ballet,4/17/2024,4/22/2024,Standard,1800000,Ballet,Phòng tập hiện đại
+KH384,Nguyễn Thành Nam,4/15/1994,namnt@email.com,Nam,P901234,956789024,Việt Nam,Kỹ sư,4/18/2024,4/24/2024,Suite,3500000,Cầu lông,Massage & Spa
+KH385,Isabella Garcia,7/28/1992,isabella.g@email.com,Nữ,ES012345,967890135,Tây Ban Nha,Giáo viên,4/18/2024,4/23/2024,Deluxe,2500000,Flamenco,Nhà hàng Âu
+KH386,Thomas Anderson,10/10/1987,thomas.a@email.com,Nam,UK123456,978901246,Anh,Nhà văn,4/18/2024,4/24/2024,Executive,4000000,Viết blog,Room Service
+KH387,Trần Thu Thảo,1/23/1993,thaott@email.com,Nữ,P234567,989012357,Việt Nam,Nhà thiết kế,4/19/2024,4/23/2024,Standard,1800000,Thiết kế,Tour tham quan thành phố
+KH388,Lars Nielsen,4/5/1990,lars.n@email.com,Nam,DK345678,990123468,Đan Mạch,Nhiếp ảnh gia,4/19/2024,4/25/2024,Suite,3500000,Nhiếp ảnh,Nhà hàng Á; Dịch vụ Concierge
+KH389,Kim Ji-eun,7/18/1988,jieun.k@email.com,Nữ,KR456789,901234579,Hàn Quốc,Nghệ sĩ,4/19/2024,4/24/2024,Deluxe,2500000,Vẽ manga,Massage & Spa
+KH390,Phạm Văn Đức,10/30/1995,ducpv@email.com,Nam,P567890,912345680,Việt Nam,Bác sĩ,4/19/2024,4/25/2024,Executive,4000000,Chess,Phòng họp/Hội nghị
+KH391,Trần Bảo Nam,3/12/1991,baonam@email.com,Nam,P567891,912345681,Việt Nam,Phi công,4/20/2024,4/25/2024,Deluxe,2500000,Mô hình máy bay,Nhà hàng Á
+KH392,Laura Martinez,6/25/1988,laura.m@email.com,Nữ,ES678902,923456792,Tây Ban Nha,Đầu bếp,4/20/2024,4/26/2024,Suite,3500000,Nấu Paella,Nhà hàng Âu; Room Service
+KH393,Chen Wei,9/8/1993,chen.w@email.com,Nam,CN789013,934567803,Trung Quốc,Họa sĩ,4/20/2024,4/24/2024,Standard,1800000,Vẽ thủy mặc,Massage & Spa
+KH394,Nguyễn Thị Linh,12/21/1990,linhnt@email.com,Nữ,P890124,945678914,Việt Nam,Nhạc sĩ,4/21/2024,4/27/2024,Executive,4000000,Sáng tác,Tour tham quan thành phố
+KH395,Mohammed Al-Rashid,3/4/1987,mohammed.r@email.com,Nam,SA901235,956789025,Saudi Arabia,Doanh nhân,4/21/2024,4/25/2024,Deluxe,2500000,Cưỡi ngựa,Phòng họp/Hội nghị
+KH396,Sophie Anderson,6/17/1994,sophie.a@email.com,Nữ,AU012346,967890136,Úc,Huấn luyện viên,4/21/2024,4/26/2024,Suite,3500000,Lướt sóng,Hồ bơi ngoài trời
+KH397,Lê Minh Quân,9/30/1991,minhquan@email.com,Nam,P123457,978901247,Việt Nam,Kỹ sư phần mềm,4/22/2024,4/28/2024,Standard,1800000,Coding,Room Service; Phòng tập hiện đại
+KH398,Maria Silva,12/13/1988,maria.s@email.com,Nữ,BR234568,989012358,Brazil,Vũ công,4/22/2024,4/26/2024,Executive,4000000,Nhảy Samba,Massage & Spa
+KH399,Tanaka Yuki,3/26/1995,yuki.t@email.com,Nam,JP345679,990123469,Nhật Bản,Kiến trúc sư,4/22/2024,4/27/2024,Deluxe,2500000,Origami,Nhà hàng Á
+KH400,Anna Kowalski,6/9/1992,anna.k@email.com,Nữ,PL456780,901234580,Ba Lan,Nhà văn,4/23/2024,4/29/2024,Suite,3500000,Văn học,Nhà hàng Âu; Dịch vụ Concierge
+KH401,Phạm Đức Thành,9/22/1989,ducthanh@email.com,Nam,P567891,912345681,Việt Nam,Giảng viên,4/23/2024,4/27/2024,Standard,1800000,Đánh cờ,Tour tham quan thành phố
+KH402,Emma Thompson,12/5/1994,emma.t@email.com,Nữ,UK678902,923456792,Anh,Nhiếp ảnh gia,4/23/2024,4/28/2024,Executive,4000000,Chụp ảnh phong cảnh,Massage & Spa
+KH403,Lee Min-ho,3/18/1991,minho.l@email.com,Nam,KR789013,934567803,Hàn Quốc,Diễn viên,4/24/2024,4/30/2024,Deluxe,2500000,Diễn xuất,Nhà hàng Á; Room Service
+KH404,Trần Thu Hà,6/1/1988,thuha@email.com,Nữ,P890124,945678914,Việt Nam,Y tá,4/24/2024,4/28/2024,Suite,3500000,Vẽ tranh,Hồ bơi ngoài trời
+KH405,Andreas Weber,9/14/1993,andreas.w@email.com,Nam,DE901235,956789025,Đức,Kỹ sư cơ khí,4/24/2024,4/29/2024,Standard,1800000,Chế tạo robot,Phòng tập hiện đại
+KH406,Sofia Garcia,12/27/1990,sofia.g@email.com,Nữ,AR012346,967890136,Argentina,Giáo viên,4/25/2024,5/1/2024,Executive,4000000,Khiêu vũ,Nhà hàng Âu
+KH407,Nguyễn Hoàng Long,3/11/1987,hoanglong@email.com,Nam,P123457,978901247,Việt Nam,Đạo diễn,4/25/2024,4/29/2024,Deluxe,2500000,Làm phim,Tour tham quan thành phố
+KH408,Nina Ivanova,6/24/1994,nina.i@email.com,Nữ,RU234568,989012358,Nga,Vận động viên,4/25/2024,4/30/2024,Suite,3500000,Thể dục dụng cụ,Massage & Spa
+KH409,Liu Chang,9/6/1991,liu.c@email.com,Nam,CN345679,990123469,Trung Quốc,Thương gia,4/26/2024,5/2/2024,Standard,1800000,Thư pháp,Phòng họp/Hội nghị
+KH410,Mai Thị Hoa,12/19/1988,hoamt@email.com,Nữ,P456780,901234580,Việt Nam,Ca sĩ,4/26/2024,4/30/2024,Executive,4000000,Hát dân ca,Nhà hàng Á; Room Service
+KH411,Marco Rossi,3/4/1995,marco.r@email.com,Nam,IT567891,912345681,Ý,Đầu bếp pasta,4/26/2024,5/1/2024,Deluxe,2500000,Làm pasta,Nhà hàng Âu
+KH412,Sarah Johnson,6/17/1992,sarah.j@email.com,Nữ,US678902,923456792,Mỹ,Nhà thiết kế,4/27/2024,5/3/2024,Suite,3500000,Thiết kế thời trang,Massage & Spa
+KH413,Trần Đức Minh,9/30/1989,ducminh@email.com,Nam,P789013,934567803,Việt Nam,Kỹ sư xây dựng,4/27/2024,5/1/2024,Standard,1800000,Xây dựng mô hình,Phòng tập hiện đại
+KH414,Yuki Sato,12/13/1994,yuki.s@email.com,Nữ,JP890124,945678914,Nhật Bản,Nghệ nhân,4/27/2024,5/2/2024,Executive,4000000,Ikebana,Nhà hàng Á; Dịch vụ Concierge
+KH415,Oscar Rodriguez,3/26/1991,oscar.r@email.com,Nam,ES901235,956789025,Tây Ban Nha,Nhiếp ảnh gia,4/28/2024,5/4/2024,Deluxe,2500000,Nhiếp ảnh đường phố,Tour tham quan thành phố
+KH416,Nguyễn Thị Mai,6/9/1988,maint@email.com,Nữ,P012346,967890136,Việt Nam,Giáo viên yoga,4/28/2024,5/2/2024,Suite,3500000,Yoga nâng cao,Massage & Spa
+KH417,Kevin Schmidt,9/22/1993,kevin.s@email.com,Nam,DE123457,978901247,Đức,Nhạc sĩ,4/28/2024,5/3/2024,Standard,1800000,Chơi piano,Nhà hàng Âu
+KH418,Lin Wei Chen,12/5/1990,linwei@email.com,Nữ,CN234568,989012358,Trung Quốc,Bác sĩ,4/29/2024,5/5/2024,Executive,4000000,Thiền,Massage & Spa; Room Service
+KH419,Lê Văn Hùng,3/18/1987,vanhung@email.com,Nam,P345679,990123469,Việt Nam,HLV thể hình,4/29/2024,5/3/2024,Deluxe,2500000,Tập gym,Phòng tập hiện đại
+KH420,Isabella Santos,6/1/1994,isabella.s@email.com,Nữ,BR456780,901234580,Brazil,Nghệ sĩ,4/29/2024,5/4/2024,Suite,3500000,Vẽ graffiti,Tour tham quan thành phố
+KH421,Park Ji-sung,9/14/1991,jisung.p@email.com,Nam,KR567891,912345681,Hàn Quốc,Nhạc sĩ,4/30/2024,5/6/2024,Standard,1800000,Sáng tác nhạc,Nhà hàng Á
+KH422,Marie Dupont,12/27/1988,marie.d@email.com,Nữ,FR678902,923456792,Pháp,Nghệ sĩ ballet,4/30/2024,5/4/2024,Executive,4000000,Múa ballet,Massage & Spa
+KH423,Nguyễn Anh Tuấn,3/11/1995,anhtuan@email.com,Nam,P789013,934567803,Việt Nam,Lập trình viên,4/30/2024,5/5/2024,Deluxe,2500000,Chơi game,Room Service; Phòng tập hiện đại
+KH424,Eva Andersson,6/24/1992,eva.a@email.com,Nữ,SE890124,945678914,Thụy Điển,Nhà thiết kế,5/1/2024,5/7/2024,Suite,3500000,Thiết kế nội thất,Nhà hàng Âu
+KH425,Ahmed Hassan,9/6/1989,ahmed.h@email.com,Nam,EG901235,956789025,Ai Cập,Giáo sư,5/1/2024,5/5/2024,Standard,1800000,Khảo cổ học,Tour tham quan thành phố
+KH426,Trần Thị Thanh,12/19/1994,thanhtran@email.com,Nữ,P012346,967890136,Việt Nam,Nhà văn,5/1/2024,5/6/2024,Executive,4000000,Viết truyện ngắn,Massage & Spa
+KH427,Lucas Silva,3/4/1991,lucas.s@email.com,Nam,PT123457,978901247,Bồ Đào Nha,Cầu thủ,5/2/2024,5/8/2024,Deluxe,2500000,Bóng đá,Phòng tập hiện đại
+KH428,Akiko Yamamoto,6/17/1988,akiko.y@email.com,Nữ,JP234568,989012358,Nhật Bản,Nghệ nhân,5/2/2024,5/6/2024,Suite,3500000,Nghệ thuật giấy,Nhà hàng Á
+KH429,Phạm Minh Đức,9/30/1993,minhduc@email.com,Nam,P345679,990123469,Việt Nam,Kiến trúc sư,5/2/2024,5/7/2024,Standard,1800000,Vẽ phối cảnh,Massage & Spa
+KH430,Sofia Greco,12/13/1990,sofia.g@email.com,Nữ,GR456780,901234580,Hy Lạp,Vũ công,5/2/2024,5/8/2024,Executive,4000000,Múa đương đại,Nhà hàng Âu; Room Service
+KH431,Viktor Petrov,3/15/1989,viktor.p@email.com,Nam,RU567892,912345682,Nga,Vận động viên,5/3/2024,5/8/2024,Deluxe,2500000,Thể dục dụng cụ,Phòng tập hiện đại
+KH432,Nguyễn Thị Hạnh,6/28/1994,thihanhnt@email.com,Nữ,P678903,923456793,Việt Nam,Thợ làm bánh,5/3/2024,5/9/2024,Suite,3500000,Làm bánh nghệ thuật,Nhà hàng Á
+KH433,Lars Anderson,9/10/1991,lars.a@email.com,Nam,SE789014,934567804,Thụy Điển,Game developer,5/3/2024,5/7/2024,Standard,1800000,Lập trình game,Room Service
+KH434,Mei Lin Chen,12/23/1988,meilin.c@email.com,Nữ,TW890125,945678915,Đài Loan,Nghệ sĩ,5/4/2024,5/10/2024,Executive,4000000,Nghệ thuật đương đại,Tour tham quan thành phố; Massage & Spa
+KH435,Lê Văn Tùng,3/5/1993,vantung@email.com,Nam,P901236,956789026,Việt Nam,DJ,5/4/2024,5/8/2024,Deluxe,2500000,Sáng tác nhạc điện tử,Lobby Bar
+KH436,Isabel Santos,6/18/1990,isabel.s@email.com,Nữ,PT012347,967890137,Bồ Đào Nha,Nhà thiết kế,5/4/2024,5/9/2024,Suite,3500000,Vẽ minh họa,Nhà hàng Âu
+KH437,Ali Hassan,9/30/1987,ali.h@email.com,Nam,AE123458,978901248,UAE,Kinh doanh,5/5/2024,5/11/2024,Standard,1800000,Đua ngựa,Phòng họp/Hội nghị
+KH438,Trần Mai Anh,1/12/1992,maianh@email.com,Nữ,P234569,989012359,Việt Nam,Nhạc sĩ,5/5/2024,5/9/2024,Executive,4000000,Sáng tác nhạc,Nhà hàng Á; Room Service
+KH439,Felix Mueller,4/25/1989,felix.m@email.com,Nam,DE345670,990123470,Đức,Kỹ sư ô tô,5/5/2024,5/10/2024,Deluxe,2500000,Chế tạo máy,Massage & Spa
+KH440,Sophia Lee,7/7/1994,sophia.l@email.com,Nữ,SG456781,901234581,Singapore,Nhà báo,5/6/2024,5/12/2024,Suite,3500000,Viết blog du lịch,Tour tham quan thành phố
+KH441,Nguyễn Đức Thắng,10/20/1991,ducthang@email.com,Nam,P567892,912345682,Việt Nam,Võ sư,5/6/2024,5/10/2024,Standard,1800000,Võ thuật cổ truyền,Phòng tập hiện đại
+KH442,Clara Rodriguez,1/2/1988,clara.r@email.com,Nữ,MX678903,923456793,Mexico,Đầu bếp,5/6/2024,5/11/2024,Executive,4000000,Ẩm thực Mexico,Nhà hàng Âu
+KH443,Ryu Tanaka,4/15/1993,ryu.t@email.com,Nam,JP789014,934567804,Nhật Bản,Kiến trúc sư,5/7/2024,5/13/2024,Deluxe,2500000,Kiến trúc Nhật Bản,Massage & Spa
+KH444,Phạm Thu Trang,7/28/1990,thutrang@email.com,Nữ,P890125,945678915,Việt Nam,Họa sĩ,5/7/2024,5/11/2024,Suite,3500000,Hội họa truyền thống,Room Service
+KH445,Adrian Taylor,10/10/1987,adrian.t@email.com,Nam,UK901236,956789026,Anh,Nhà văn,5/7/2024,5/12/2024,Standard,1800000,Viết tiểu thuyết,Nhà hàng Á
+KH446,Maria Costa,1/23/1992,maria.c@email.com,Nữ,BR012347,967890137,Brazil,Giáo viên nhảy,5/8/2024,5/14/2024,Executive,4000000,Nhảy Carnival,Hồ bơi ngoài trời
+KH447,Trần Minh Quân,4/5/1989,minhquan@email.com,Nam,P123458,978901248,Việt Nam,Kỹ sư IT,5/8/2024,5/12/2024,Deluxe,2500000,Chơi cờ vua,Phòng họp/Hội nghị
+KH448,Emma Nielsen,7/18/1994,emma.n@email.com,Nữ,DK234569,989012359,Đan Mạch,Nhà thiết kế,5/8/2024,5/13/2024,Suite,3500000,Thiết kế đồ họa,Massage & Spa
+KH449,Chen Wei Ming,10/30/1991,weiming@email.com,Nam,CN345670,990123470,Trung Quốc,Thư pháp gia,5/9/2024,5/15/2024,Standard,1800000,Thư pháp,Nhà hàng Á
+KH450,Lê Thị Phương,1/12/1988,phuonglt@email.com,Nữ,P456781,901234581,Việt Nam,Ca sĩ Opera,5/9/2024,5/13/2024,Executive,4000000,Hát Opera,Room Service
+KH451,Antoine Martin,4/25/1993,antoine.m@email.com,Nam,FR567892,912345682,Pháp,Đạo diễn,5/9/2024,5/14/2024,Deluxe,2500000,Làm phim ngắn,Tour tham quan thành phố
+KH452,Yuki Sato,7/7/1990,yuki.s@email.com,Nữ,JP678903,923456793,Nhật Bản,Nghệ nhân,5/10/2024,5/16/2024,Suite,3500000,Trà đạo,Massage & Spa
+KH453,Nguyễn Hoàng Nam,10/20/1987,hoangnam@email.com,Nam,P789014,934567804,Việt Nam,Nhiếp ảnh gia,5/10/2024,5/14/2024,Standard,1800000,Chụp ảnh phong cảnh,Nhà hàng Á
+KH454,Sofia Bianchi,1/2/1992,sofia.b@email.com,Nữ,IT890125,945678915,Ý,Nhà thiết kế thời trang,5/10/2024,5/15/2024,Executive,4000000,Thiết kế thời trang,Room Service
+KH455,James Wilson,4/15/1989,james.w@email.com,Nam,UK901236,956789026,Anh,Giáo sư âm nhạc,5/11/2024,5/17/2024,Deluxe,2500000,Chơi violin,Nhà hàng Âu
+KH456,Trần Thị Mai,7/28/1994,maitr@email.com,Nữ,P012347,967890137,Việt Nam,Huấn luyện viên yoga,5/11/2024,5/15/2024,Suite,3500000,Yoga nâng cao,Massage & Spa
+KH457,Gustav Lindberg,10/10/1991,gustav.l@email.com,Nam,SE123458,978901248,Thụy Điển,Nhà thiết kế game,5/11/2024,5/16/2024,Standard,1800000,Phát triển game,Phòng tập hiện đại
+KH458,Ana Santos,1/23/1988,ana.s@email.com,Nữ,BR234569,989012359,Brazil,Vũ công samba,5/12/2024,5/18/2024,Executive,4000000,Nhảy samba,Hồ bơi ngoài trời
+KH459,Phạm Văn Hùng,4/5/1993,vanhung@email.com,Nam,P345670,990123470,Việt Nam,Kỹ sư xây dựng,5/12/2024,5/16/2024,Deluxe,2500000,Thiết kế kiến trúc,Phòng họp/Hội nghị
+KH460,Elena Popov,7/18/1990,elena.p@email.com,Nữ,RU456781,901234581,Nga,Vận động viên trượt băng,5/12/2024,5/17/2024,Suite,3500000,Trượt băng nghệ thuật,Massage & Spa
+KH461,Kim Min-jae,10/30/1987,minjae@email.com,Nam,KR567892,912345682,Hàn Quốc,Nhà sản xuất phim,5/13/2024,5/19/2024,Standard,1800000,Làm phim tài liệu,Room Service
+KH462,Mai Thị Hoa,1/12/1992,hoamt@email.com,Nữ,P678903,923456793,Việt Nam,Nghệ sĩ múa,5/13/2024,5/17/2024,Executive,4000000,Múa đương đại,Nhà hàng Á
+KH463,Daniel Schmidt,4/25/1989,daniel.s@email.com,Nam,DE789014,934567804,Đức,Nhà khoa học,5/13/2024,5/18/2024,Deluxe,2500000,Nghiên cứu thiên văn,Tour tham quan thành phố
+KH464,Luna Garcia,7/7/1994,luna.g@email.com,Nữ,ES890125,945678915,Tây Ban Nha,Giáo viên flamenco,5/14/2024,5/20/2024,Suite,3500000,Múa flamenco,Massage & Spa
+KH465,Trần Đức Long,10/20/1991,duclong@email.com,Nam,P901236,956789026,Việt Nam,Nhạc sĩ dân tộc,5/14/2024,5/18/2024,Standard,1800000,Chơi đàn tranh,Nhà hàng Á
+KH466,Olivia Brown,1/2/1988,olivia.b@email.com,Nữ,CA012347,967890137,Canada,Nhà văn du ký,5/14/2024,5/19/2024,Executive,4000000,Viết du ký,Room Service
+KH467,Liu Wei,4/15/1993,liu.w@email.com,Nam,CN123458,978901248,Trung Quốc,Họa sĩ,5/15/2024,5/21/2024,Deluxe,2500000,Hội họa truyền thống,Massage & Spa
+KH468,Nguyễn Thị Tâm,7/28/1990,tamnt@email.com,Nữ,P234569,989012359,Việt Nam,Nhà thiết kế trang sức,5/15/2024,5/19/2024,Suite,3500000,Chế tác trang sức,Nhà hàng Âu
+KH469,Marco Rossi,10/10/1987,marco.r@email.com,Nam,IT345670,990123470,Ý,Đầu bếp trưởng,5/15/2024,5/20/2024,Standard,1800000,Nấu ăn Ý,Nhà hàng Á
+KH470,Sarah Anderson,1/23/1992,sarah.a@email.com,Nữ,US456781,901234581,Mỹ,Nhà tâm lý học,5/15/2024,5/21/2024,Executive,4000000,Thiền định,Massage & Spa
+KH471,Lê Thanh Tùng,5/15/1991,thanhtung@email.com,Nam,P567893,912345683,Việt Nam,Nhạc sĩ jazz,5/16/2024,5/21/2024,Deluxe,2500000,Chơi saxophone,Nhà hàng Âu
+KH472,Nina Müller,8/28/1988,nina.m@email.com,Nữ,DE678904,923456794,Đức,Nghệ sĩ gốm,5/16/2024,5/22/2024,Suite,3500000,Làm gốm,Massage & Spa
+KH473,Hiroshi Yamamoto,11/10/1993,hiroshi.y@email.com,Nam,JP789015,934567805,Nhật Bản,Kiến trúc sư,5/16/2024,5/20/2024,Standard,1800000,Bonsai,Tour tham quan thành phố
+KH474,Trần Thị Ngọc,2/23/1990,ngoctt@email.com,Nữ,P890126,945678916,Việt Nam,Giáo viên piano,5/17/2024,5/23/2024,Executive,4000000,Biểu diễn piano,Room Service
+KH475,Carlos Lopez,5/5/1987,carlos.l@email.com,Nam,MX901237,956789027,Mexico,Đạo diễn phim,5/17/2024,5/21/2024,Deluxe,2500000,Quay phim,Nhà hàng Á
+KH476,Anna Kowalska,8/18/1992,anna.k@email.com,Nữ,PL012348,967890138,Ba Lan,Vũ công ballet,5/17/2024,5/22/2024,Suite,3500000,Ballet cổ điển,Phòng tập hiện đại
+KH477,Phạm Văn Đạt,11/30/1989,vandat@email.com,Nam,P123459,978901249,Việt Nam,Kỹ sư phần mềm,5/18/2024,5/24/2024,Standard,1800000,Lập trình AI,Phòng họp/Hội nghị
+KH478,Sofia Rossi,3/12/1994,sofia.r@email.com,Nữ,IT234570,989012360,Ý,Nhà thiết kế thời trang,5/18/2024,5/22/2024,Executive,4000000,Thời trang vintage,Massage & Spa
+KH479,Kim Ji-won,6/25/1991,jiwon.k@email.com,Nam,KR345671,990123471,Hàn Quốc,Nhà sản xuất game,5/18/2024,5/23/2024,Deluxe,2500000,Game development,Room Service
+KH480,Mai Anh Đào,9/7/1988,anhdao@email.com,Nữ,P456782,901234582,Việt Nam,Nghệ sĩ múa,5/19/2024,5/25/2024,Suite,3500000,Múa dân gian,Nhà hàng Á
+KH481,Thomas Wilson,12/20/1993,thomas.w@email.com,Nam,UK567893,912345683,Anh,Nhà văn,5/19/2024,5/23/2024,Standard,1800000,Viết truyện trinh thám,Tour tham quan thành phố
+KH482,Elena Petrova,3/4/1990,elena.p@email.com,Nữ,RU678904,923456794,Nga,Vận động viên,5/19/2024,5/24/2024,Executive,4000000,Thể dục nghệ thuật,Hồ bơi ngoài trời
+KH483,Nguyễn Minh Quân,6/17/1987,minhquan@email.com,Nam,P789015,934567805,Việt Nam,Đầu bếp,5/20/2024,5/26/2024,Deluxe,2500000,Ẩm thực fusion,Nhà hàng Âu
+KH484,Laura Schmidt,9/29/1992,laura.s@email.com,Nữ,DE890126,945678916,Đức,Nhà thiết kế nội thất,5/20/2024,5/24/2024,Suite,3500000,Thiết kế minimalist,Massage & Spa
+KH485,Tanaka Kenji,12/12/1989,kenji.t@email.com,Nam,JP901237,956789027,Nhật Bản,Nghệ nhân kim hoàn,5/20/2024,5/25/2024,Standard,1800000,Chế tác trang sức,Room Service
+KH486,Trần Thị Linh,3/25/1994,linhtt@email.com,Nữ,P012348,967890138,Việt Nam,Nhà thiết kế đồ họa,5/21/2024,5/27/2024,Executive,4000000,Digital art,Nhà hàng Á
+KH487,Marco Ferrari,6/7/1991,marco.f@email.com,Nam,IT123459,978901249,Ý,Nhiếp ảnh gia,5/21/2024,5/25/2024,Deluxe,2500000,Nhiếp ảnh đường phố,Tour tham quan thành phố
+KH488,Maria Santos,9/20/1988,maria.s@email.com,Nữ,BR234570,989012360,Brazil,Giáo viên samba,5/21/2024,5/26/2024,Suite,3500000,Nhảy samba,Massage & Spa
+KH489,Lê Hoàng Nam,12/2/1993,hoangnam@email.com,Nam,P345671,990123471,Việt Nam,Kỹ sư âm thanh,5/22/2024,5/28/2024,Standard,1800000,Thu âm,Phòng họp/Hội nghị
+KH490,Sophie Anderson,3/15/1990,sophie.a@email.com,Nữ,UK456782,901234582,Anh,Nhà văn du ký,5/22/2024,5/26/2024,Executive,4000000,Viết blog du lịch,Room Service
+KH491,Chen Wei,6/28/1987,chen.w@email.com,Nam,CN567893,912345683,Trung Quốc,Họa sĩ,5/22/2024,5/27/2024,Deluxe,2500000,Hội họa truyền thống,Nhà hàng Á
+KH492,Nguyễn Thị Hương,9/10/1992,huongnt@email.com,Nữ,P678904,923456794,Việt Nam,Nghệ sĩ xiếc,5/23/2024,5/29/2024,Suite,3500000,Xiếc nghệ thuật,Hồ bơi ngoài trời
+KH493,Alexander Ivanov,12/23/1989,alex.i@email.com,Nam,RU789015,934567805,Nga,Nhà soạn nhạc,5/23/2024,5/27/2024,Standard,1800000,Sáng tác nhạc cổ điển,Nhà hàng Âu
+KH494,Isabella Costa,3/5/1994,isabella.c@email.com,Nữ,BR890126,945678916,Brazil,Nhà thiết kế trang sức,5/23/2024,5/28/2024,Executive,4000000,Chế tác đá quý,Massage & Spa
+KH495,Trần Đức Minh,6/18/1991,ducminh@email.com,Nam,P901237,956789027,Việt Nam,Kỹ sư robot,5/24/2024,5/30/2024,Deluxe,2500000,Chế tạo robot,Phòng tập hiện đại
+KH496,Emma Thompson,9/30/1988,emma.t@email.com,Nữ,UK012348,967890138,Anh,Nhà thiết kế thời trang,5/24/2024,5/28/2024,Suite,3500000,Thiết kế sustainable,Room Service
+KH497,Park Min-ho,12/13/1993,minho.p@email.com,Nam,KR123459,978901249,Hàn Quốc,Đạo diễn phim,5/24/2024,5/29/2024,Standard,1800000,Làm phim ngắn,Nhà hàng Á
+KH498,Lê Thị Mai,3/26/1990,mailt@email.com,Nữ,P234570,989012360,Việt Nam,Nghệ sĩ gốm,5/25/2024,5/31/2024,Executive,4000000,Nghệ thuật gốm,Tour tham quan thành phố
+KH499,Felix Weber,6/8/1987,felix.w@email.com,Nam,DE345671,990123471,Đức,Nhà thiết kế ô tô,5/25/2024,5/29/2024,Deluxe,2500000,Thiết kế xe,Phòng họp/Hội nghị
+KH500,Ana Martinez,9/21/1992,ana.m@email.com,Nữ,ES456782,901234582,Tây Ban Nha,Nghệ sĩ guitar,5/25/2024,5/30/2024,Suite,3500000,Flamenco guitar,Massage & Spa
+KH501,Nguyễn Văn Thành,12/3/1989,vanthanh@email.com,Nam,P567893,912345683,Việt Nam,Đạo diễn sân khấu,5/26/2024,6/1/2024,Standard,1800000,Kịch nghệ,Room Service
+KH502,Sophia Lee,3/16/1994,sophia.l@email.com,Nữ,SG678904,923456794,Singapore,Nhà thiết kế trò chơi,5/26/2024,5/30/2024,Executive,4000000,Game design,Nhà hàng Á
+KH503,Viktor Petrov,6/29/1991,viktor.p@email.com,Nam,RU789015,934567805,Nga,Vận động viên trượt băng,5/26/2024,5/31/2024,Deluxe,2500000,Trượt băng nghệ thuật,Hồ bơi ngoài trời
+KH504,Trần Thu Thảo,9/11/1988,thuthao@email.com,Nữ,P890126,945678916,Việt Nam,Nhà văn,5/27/2024,6/2/2024,Suite,3500000,Viết truyện thiếu nhi,Massage & Spa
+KH505,Luis Garcia,12/24/1993,luis.g@email.com,Nam,ES901237,956789027,Tây Ban Nha,Đầu bếp,5/27/2024,5/31/2024,Standard,1800000,Ẩm thực Địa Trung Hải,Nhà hàng Âu
+KH506,Yuki Honda,3/7/1990,yuki.h@email.com,Nữ,JP012348,967890138,Nhật Bản,Nghệ nhân origami,5/27/2024,6/1/2024,Executive,4000000,Nghệ thuật giấy,Room Service
+KH507,Phạm Đức Long,6/20/1987,duclong@email.com,Nam,P123459,978901249,Việt Nam,Nhạc sĩ dân tộc,5/28/2024,6/3/2024,Deluxe,2500000,Nhạc cụ dân tộc,Tour tham quan thành phố
+KH508,Clara Nielsen,9/2/1992,clara.n@email.com,Nữ,DK234570,989012360,Đan Mạch,Nhà thiết kế đồ họa,5/28/2024,6/1/2024,Suite,3500000,Motion graphics,Massage & Spa
+KH509,Liu Chang,12/15/1989,liu.c@email.com,Nam,CN345671,990123471,Trung Quốc,Võ sư,5/28/2024,6/2/2024,Standard,1800000,Võ thuật cổ truyền,Phòng tập hiện đại
+KH510,Mai Thị Loan,3/28/1994,loanthi@email.com,Nữ,P456782,901234582,Việt Nam,Nghệ sĩ trang điểm,5/29/2024,6/4/2024,Executive,4000000,Makeup nghệ thuật,Nhà hàng Á
+KH511,Oscar Fernandez,4/15/1991,oscar.f@email.com,Nam,ES567893,912345683,Tây Ban Nha,Nghệ sĩ guitar,5/29/2024,6/3/2024,Deluxe,2500000,"Chơi guitar, Nhảy flamenco",Nhà hàng Âu
+KH512,Nguyễn Thị Quỳnh,7/28/1988,quynh.nt@email.com,Nữ,P678904,923456794,Việt Nam,Giáo viên yoga,5/29/2024,6/4/2024,Suite,3500000,"Yoga, Thiền",Massage & Spa; Room Service
+KH513,Alexander Klein,10/10/1993,alex.k@email.com,Nam,DE789015,934567805,Đức,Kỹ sư phần mềm,5/30/2024,6/3/2024,Standard,1800000,"Lập trình, Chơi piano",Phòng họp/Hội nghị
+KH514,Sakura Tanaka,1/23/1990,sakura.t@email.com,Nữ,JP890126,945678916,Nhật Bản,Nghệ nhân,5/30/2024,6/5/2024,Executive,4000000,"Ikebana, Trà đạo",Nhà hàng Á
+KH515,Trần Minh Đức,4/5/1987,duc.tm@email.com,Nam,P901237,956789027,Việt Nam,Nhiếp ảnh gia,5/30/2024,6/4/2024,Deluxe,2500000,"Chụp ảnh, Du lịch",Tour tham quan thành phố; Massage & Spa
+KH516,Emma Wilson,7/18/1992,emma.w@email.com,Nữ,UK012348,967890138,Anh,Nhà văn,5/31/2024,6/6/2024,Suite,3500000,"Viết sách, Đọc sách",Room Service
+KH517,Kim Ji-hun,10/30/1989,jihun.k@email.com,Nam,KR123459,978901249,Hàn Quốc,Đầu bếp,5/31/2024,6/4/2024,Standard,1800000,"Nấu ăn, Làm vườn",Nhà hàng Á; Hồ bơi ngoài trời
+KH518,Mai Thị Hạnh,1/12/1994,hanh.mt@email.com,Nữ,P234570,989012360,Việt Nam,Ca sĩ,5/31/2024,6/5/2024,Executive,4000000,"Hát, Chơi đàn",Massage & Spa
+KH519,Marco Rossi,4/25/1991,marco.r@email.com,Nam,IT345671,990123471,Ý,Kiến trúc sư,6/1/2024,6/7/2024,Deluxe,2500000,"Vẽ phác thảo, Nhiếp ảnh",Phòng họp/Hội nghị
+KH520,Anna Petrova,7/7/1988,anna.p@email.com,Nữ,RU456782,901234582,Nga,Vũ công ballet,6/1/2024,6/5/2024,Suite,3500000,"Ballet, Piano",Nhà hàng Âu
+KH521,Lê Văn Tùng,10/20/1993,tung.lv@email.com,Nam,P567893,912345683,Việt Nam,DJ,6/1/2024,6/6/2024,Standard,1800000,"Mix nhạc, Chơi game",Lobby Bar
+KH522,Sofia Garcia,1/2/1990,sofia.g@email.com,Nữ,ES678904,923456794,Tây Ban Nha,Nhà thiết kế,6/2/2024,6/8/2024,Executive,4000000,"Thiết kế, Vẽ tranh",Massage & Spa; Room Service
+KH523,Chen Wei,4/15/1987,wei.c@email.com,Nam,CN789015,934567805,Trung Quốc,Thư pháp gia,6/2/2024,6/6/2024,Deluxe,2500000,"Thư pháp, Thiền",Nhà hàng Á
+KH524,Nguyễn Thùy Linh,7/28/1992,linh.nt@email.com,Nữ,P890126,945678916,Việt Nam,Nhà báo,6/2/2024,6/7/2024,Suite,3500000,"Viết văn, Nhiếp ảnh",Tour tham quan thành phố
+KH525,Thomas Anderson,10/10/1989,thomas.a@email.com,Nam,US901237,956789027,Mỹ,Lập trình viên,6/3/2024,6/9/2024,Standard,1800000,"Coding, Chơi guitar",Phòng họp/Hội nghị
+KH526,Marie Dubois,1/23/1994,marie.d@email.com,Nữ,FR012348,967890138,Pháp,Đầu bếp bánh,6/3/2024,6/7/2024,Executive,4000000,"Làm bánh, Vẽ",Nhà hàng Âu; Room Service
+KH527,Phạm Hoàng Nam,4/5/1991,nam.ph@email.com,Nam,P123459,978901249,Việt Nam,Kỹ sư âm thanh,6/3/2024,6/8/2024,Deluxe,2500000,"Thu âm, Chơi nhạc",Phòng họp/Hội nghị
+KH528,Yuki Sato,7/18/1988,yuki.s@email.com,Nữ,JP234570,989012360,Nhật Bản,Họa sĩ manga,6/4/2024,6/10/2024,Suite,3500000,"Vẽ manga, Cosplay",Massage & Spa
+KH529,Lars Nielsen,10/30/1993,lars.n@email.com,Nam,DK345671,990123471,Đan Mạch,Nhà thiết kế game,6/4/2024,6/8/2024,Standard,1800000,"Game design, Đọc truyện",Room Service
+KH530,Trần Thị Ngọc,1/12/1990,ngoc.tt@email.com,Nữ,P456782,901234582,Việt Nam,Giáo viên múa,6/4/2024,6/9/2024,Executive,4000000,"Múa, Yoga",Nhà hàng Á; Hồ bơi ngoài trời
+KH531,Carlos Rodriguez,4/25/1987,carlos.r@email.com,Nam,MX567893,912345683,Mexico,Nghệ sĩ,6/5/2024,6/11/2024,Deluxe,2500000,"Vẽ tranh, Chơi guitar",Tour tham quan thành phố
+KH532,Elena Ivanova,7/7/1992,elena.i@email.com,Nữ,RU678904,923456794,Nga,Vận động viên,6/5/2024,6/9/2024,Suite,3500000,"Thể dục dụng cụ, Piano",Massage & Spa
+KH533,Lê Minh Tuấn,10/20/1989,tuan.lm@email.com,Nam,P789015,934567805,Việt Nam,Kiến trúc sư,6/5/2024,6/10/2024,Standard,1800000,"Thiết kế, Chụp ảnh",Nhà hàng Á
+KH534,Sophie Martin,1/2/1994,sophie.m@email.com,Nữ,FR890126,945678916,Pháp,Nghệ sĩ ballet,6/6/2024,6/12/2024,Executive,4000000,"Ballet, Vẽ",Phòng tập hiện đại; Room Service
+KH535,Liu Wei,4/15/1991,wei.l@email.com,Nam,CN901237,956789027,Trung Quốc,Võ sư,6/6/2024,6/10/2024,Deluxe,2500000,"Võ thuật, Cờ vua",Massage & Spa
+KH536,Nguyễn Mai Anh,7/28/1988,anh.nm@email.com,Nữ,P012348,967890138,Việt Nam,Nhạc sĩ,6/6/2024,6/11/2024,Suite,3500000,"Sáng tác nhạc, Piano",Nhà hàng Âu
+KH537,James Wilson,10/10/1993,james.w@email.com,Nam,UK123459,978901249,Anh,Nhà văn,6/7/2024,6/13/2024,Standard,1800000,"Viết sách, Chụp ảnh",Tour tham quan thành phố
+KH538,Maria Santos,1/23/1990,maria.s@email.com,Nữ,BR234570,989012360,Brazil,Vũ công,6/7/2024,6/11/2024,Executive,4000000,"Samba, Yoga",Massage & Spa; Hồ bơi ngoài trời
+KH539,Trần Đức Long,4/5/1987,long.td@email.com,Nam,P345671,990123471,Việt Nam,Đạo diễn,6/7/2024,6/12/2024,Deluxe,2500000,"Làm phim, Nhiếp ảnh",Nhà hàng Á
+KH540,Luna Park,7/18/1992,luna.p@email.com,Nữ,KR456782,901234582,Hàn Quốc,Ca sĩ,6/8/2024,6/14/2024,Suite,3500000,"Hát, Nhảy hiện đại",Room Service
+KH541,Ahmed Hassan,5/15/1991,ahmed.h@email.com,Nam,EG567893,912345683,Ai Cập,Nhà khảo cổ,6/8/2024,6/13/2024,Deluxe,2500000,"Lịch sử, Đọc sách",Tour tham quan thành phố
+KH542,Nguyễn Thị Hoa,8/28/1988,hoa.nt@email.com,Nữ,P678904,923456794,Việt Nam,Nghệ sĩ,6/8/2024,6/14/2024,Suite,3500000,"Hội họa, Thư pháp",Massage & Spa; Room Service
+KH543,Gustav Nilsson,11/10/1993,gustav.n@email.com,Nam,SE789015,934567805,Thụy Điển,Game Developer,6/9/2024,6/13/2024,Standard,1800000,"Coding, Chơi game",Phòng họp/Hội nghị
+KH544,Yuna Kim,2/23/1990,yuna.k@email.com,Nữ,KR890126,945678916,Hàn Quốc,Biên đạo múa,6/9/2024,6/15/2024,Executive,4000000,"Nhảy hiện đại, Piano",Nhà hàng Á
+KH545,Lê Văn Hùng,5/5/1987,hung.lv@email.com,Nam,P901237,956789027,Việt Nam,Đầu bếp,6/9/2024,6/14/2024,Deluxe,2500000,"Nấu ăn, Làm vườn",Nhà hàng Âu; Hồ bơi ngoài trời
+KH546,Isabella Romano,8/18/1992,isabella.r@email.com,Nữ,IT012348,967890138,Ý,Nhà thiết kế,6/10/2024,6/16/2024,Suite,3500000,"Thời trang, Vẽ",Massage & Spa
+KH547,Trần Bảo Nam,11/30/1989,nam.tb@email.com,Nam,P123459,978901249,Việt Nam,Nhiếp ảnh gia,6/10/2024,6/14/2024,Standard,1800000,"Chụp ảnh, Du lịch",Tour tham quan thành phố
+KH548,Sofia Garcia,3/12/1994,sofia.g@email.com,Nữ,ES234570,989012360,Tây Ban Nha,Vũ công,6/10/2024,6/15/2024,Executive,4000000,"Flamenco, Guitar",Nhà hàng Âu
+KH549,Liu Chang,6/25/1991,chang.l@email.com,Nam,CN345671,990123471,Trung Quốc,Họa sĩ,6/11/2024,6/17/2024,Deluxe,2500000,"Hội họa, Thư pháp",Room Service
+KH550,Mai Thị Linh,9/7/1988,linh.mt@email.com,Nữ,P456782,901234582,Việt Nam,Giáo viên yoga,6/11/2024,6/15/2024,Suite,3500000,"Yoga, Thiền",Massage & Spa; Phòng tập hiện đại
+KH551,Pierre Dubois,12/20/1993,pierre.d@email.com,Nam,FR567893,912345683,Pháp,Đầu bếp,6/11/2024,6/16/2024,Standard,1800000,"Nấu ăn, Rượu vang",Nhà hàng Âu
+KH552,Anna Schmidt,3/4/1990,anna.s@email.com,Nữ,DE678904,923456794,Đức,Nhạc sĩ,6/12/2024,6/18/2024,Executive,4000000,"Violin, Piano",Tour tham quan thành phố
+KH553,Nguyễn Minh Quân,6/17/1987,quan.nm@email.com,Nam,P789015,934567805,Việt Nam,Kỹ sư,6/12/2024,6/16/2024,Deluxe,2500000,"Cờ vua, Đọc sách",Phòng họp/Hội nghị
+KH554,Emma Wilson,9/29/1992,emma.w@email.com,Nữ,UK890126,945678916,Anh,Nhà văn,6/12/2024,6/17/2024,Suite,3500000,"Viết sách, Chụp ảnh",Room Service
+KH555,Kenji Sato,12/12/1989,kenji.s@email.com,Nam,JP901237,956789027,Nhật Bản,Kiến trúc sư,6/13/2024,6/19/2024,Standard,1800000,"Kiến trúc, Bonsai",Nhà hàng Á; Massage & Spa
+KH556,Trần Thị Mai,3/25/1994,mai.tt@email.com,Nữ,P012348,967890138,Việt Nam,Ca sĩ,6/13/2024,6/17/2024,Executive,4000000,"Hát, Múa",Hồ bơi ngoài trời
+KH557,Carlos Martinez,6/7/1991,carlos.m@email.com,Nam,MX123459,978901249,Mexico,Nhiếp ảnh gia,6/13/2024,6/18/2024,Deluxe,2500000,"Nhiếp ảnh, Guitar",Tour tham quan thành phố
+KH558,Maria Silva,9/20/1988,maria.s@email.com,Nữ,BR234570,989012360,Brazil,Vũ công,6/14/2024,6/20/2024,Suite,3500000,"Samba, Yoga",Massage & Spa; Room Service
+KH559,Phạm Đức Anh,12/2/1993,anh.pd@email.com,Nam,P345671,990123471,Việt Nam,DJ,6/14/2024,6/18/2024,Standard,1800000,"Mix nhạc, Thể thao",Lobby Bar
+KH560,Nina Petrova,3/15/1990,nina.p@email.com,Nữ,RU456782,901234582,Nga,Vận động viên,6/14/2024,6/19/2024,Executive,4000000,"Thể dục dụng cụ, Piano",Phòng tập hiện đại
+KH561,Park Ji-sung,6/28/1987,jisung.p@email.com,Nam,KR567893,912345683,Hàn Quốc,Nhà sản xuất,6/15/2024,6/21/2024,Deluxe,2500000,"Sản xuất phim, Nhiếp ảnh",Nhà hàng Á
+KH562,Laura Rossi,9/10/1992,laura.r@email.com,Nữ,IT678904,923456794,Ý,Nghệ sĩ,6/15/2024,6/19/2024,Suite,3500000,"Vẽ, Điêu khắc",Massage & Spa
+KH563,Lê Thành Nam,12/23/1989,nam.lt@email.com,Nam,P789015,934567805,Việt Nam,Giảng viên,6/15/2024,6/20/2024,Standard,1800000,"Cờ tướng, Đọc sách",Room Service
+KH564,Sophie Anderson,3/5/1994,sophie.a@email.com,Nữ,UK890126,945678916,Anh,Nhà thiết kế,6/16/2024,6/22/2024,Executive,4000000,"Thiết kế, Vẽ",Tour tham quan thành phố; Nhà hàng Âu
+KH565,Chen Wei,6/18/1991,wei.c@email.com,Nam,CN901237,956789027,Trung Quốc,Thư pháp gia,6/16/2024,6/20/2024,Deluxe,2500000,"Thư pháp, Thiền",Nhà hàng Á
+KH566,Nguyễn Thu Hà,9/30/1988,ha.nt@email.com,Nữ,P012348,967890138,Việt Nam,Biên đạo múa,6/16/2024,6/21/2024,Suite,3500000,"Múa, Yoga",Massage & Spa; Hồ bơi ngoài trời
+KH567,Marco Ferrari,12/13/1993,marco.f@email.com,Nam,IT123459,978901249,Ý,Đầu bếp,6/17/2024,6/23/2024,Standard,1800000,"Nấu ăn, Âm nhạc",Nhà hàng Âu
+KH568,Elena Kuznetsova,3/26/1990,elena.k@email.com,Nữ,RU234570,989012360,Nga,Nghệ sĩ ballet,6/17/2024,6/21/2024,Executive,4000000,"Ballet, Piano",Room Service
+KH569,Trần Minh Đức,6/8/1987,duc.tm@email.com,Nam,P345671,990123471,Việt Nam,Nhiếp ảnh gia,6/17/2024,6/22/2024,Deluxe,2500000,"Chụp ảnh, Du lịch",Tour tham quan thành phố
+KH570,Yuki Tanaka,9/21/1992,yuki.t@email.com,Nữ,JP456782,901234582,Nhật Bản,Nghệ nhân,6/18/2024,6/24/2024,Suite,3500000,"Origami, Trà đạo",Nhà hàng Á; Massage & Spa
+KH571,Luis Garcia,12/3/1989,luis.g@email.com,Nam,ES567893,912345683,Tây Ban Nha,Giáo viên,6/18/2024,6/22/2024,Standard,1800000,"Guitar, Hội họa",Phòng tập hiện đại
+KH572,Mai Anh Đào,3/16/1994,dao.ma@email.com,Nữ,P678904,923456794,Việt Nam,Ca sĩ,6/18/2024,6/23/2024,Executive,4000000,"Hát, Piano",Room Service
+KH573,Thomas Weber,6/29/1991,thomas.w@email.com,Nam,DE789015,934567805,Đức,Kỹ sư,6/19/2024,6/25/2024,Deluxe,2500000,"Xe hơi, Nhiếp ảnh",Phòng họp/Hội nghị
+KH574,Anna Kim,9/11/1988,anna.k@email.com,Nữ,KR890126,945678916,Hàn Quốc,Họa sĩ,6/19/2024,6/23/2024,Suite,3500000,"Vẽ truyện tranh, Piano",Massage & Spa
+KH575,Nguyễn Văn Thành,12/24/1993,thanh.nv@email.com,Nam,P901237,956789027,Việt Nam,Đạo diễn,6/19/2024,6/24/2024,Standard,1800000,"Làm phim, Nhiếp ảnh",Nhà hàng Á
+KH576,Clara Santos,3/7/1990,clara.s@email.com,Nữ,BR012348,967890138,Brazil,Vũ công,6/20/2024,6/26/2024,Executive,4000000,"Samba, Yoga",Tour tham quan thành phố; Hồ bơi ngoài trời
+KH577,Lei Wang,6/20/1987,lei.w@email.com,Nam,CN123459,978901249,Trung Quốc,Võ sư,6/20/2024,6/24/2024,Deluxe,2500000,"Võ thuật, Thư pháp",Phòng tập hiện đại
+KH578,Trần Thị Ngọc,9/2/1992,ngoc.tt@email.com,Nữ,P234570,989012360,Việt Nam,Nhà văn,6/20/2024,6/25/2024,Suite,3500000,"Viết văn, Đọc sách",Room Service
+KH579,Andrea Rossi,12/15/1989,andrea.r@email.com,Nam,IT345671,990123471,Ý,Nhạc sĩ,6/21/2024,6/27/2024,Standard,1800000,"Violin, Piano",Nhà hàng Âu
+KH580,Sofia Petrov,3/28/1994,sofia.p@email.com,Nữ,RU456782,901234582,Nga,Nghệ sĩ xiếc,6/21/2024,6/25/2024,Executive,4000000,"Xiếc, Múa ballet",Massage & Spa
+KH581,Phạm Hoàng Long,6/10/1991,long.ph@email.com,Nam,P567893,912345683,Việt Nam,Kiến trúc sư,6/21/2024,6/26/2024,Deluxe,2500000,"Kiến trúc, Vẽ",Tour tham quan thành phố
+KH582,Maya Anderson,9/23/1988,maya.a@email.com,Nữ,US678904,923456794,Mỹ,Nhà thiết kế game,6/22/2024,6/28/2024,Suite,3500000,"Lập trình game, Vẽ digital",Phòng họp/Hội nghị
+KH583,Trần Đức Minh,12/5/1993,minh.td@email.com,Nam,P789015,934567805,Việt Nam,Nhạc sĩ,6/22/2024,6/26/2024,Standard,1800000,"Sáng tác nhạc, Guitar",Nhà hàng Á
+KH584,Emilia Schmidt,3/18/1990,emilia.s@email.com,Nữ,DE890126,945678916,Đức,Đầu bếp,6/22/2024,6/27/2024,Executive,4000000,"Nấu ăn, Làm vườn",Nhà hàng Âu; Room Service
+KH585,Kim Tae-woo,6/30/1987,taewoo.k@email.com,Nam,KR901237,956789027,Hàn Quốc,Producer,6/23/2024,6/29/2024,Deluxe,2500000,"Sản xuất nhạc, Chơi piano",Massage & Spa
+KH586,Nguyễn Thị Lan,9/12/1992,lan.nt@email.com,Nữ,P012348,967890138,Việt Nam,Giáo viên múa,6/23/2024,6/27/2024,Suite,3500000,"Múa dân gian, Yoga",Tour tham quan thành phố; Hồ bơi ngoài trời
+KH587,Ricardo Silva,12/25/1989,ricardo.s@email.com,Nam,BR123459,978901249,Brazil,Huấn luyện viên,6/23/2024,6/28/2024,Standard,1800000,"Bóng đá, Chạy bộ",Phòng tập hiện đại
+KH588,Yuki Miyamoto,3/7/1994,yuki.m@email.com,Nữ,JP234570,989012360,Nhật Bản,Họa sĩ manga,6/24/2024,6/30/2024,Executive,4000000,"Vẽ manga, Cosplay",Room Service
+KH589,Lê Hoàng Anh,6/20/1991,anh.lh@email.com,Nam,P345671,990123471,Việt Nam,Kỹ sư phần mềm,6/24/2024,6/28/2024,Deluxe,2500000,"Lập trình, Cờ vua",Phòng họp/Hội nghị
+KH590,Isabella Costa,9/2/1988,isabella.c@email.com,Nữ,IT456782,901234582,Ý,Nghệ sĩ opera,6/24/2024,6/29/2024,Suite,3500000,"Hát opera, Piano",Nhà hàng Âu; Massage & Spa
+KH591,Trần Minh Quân,12/15/1993,quan.tm@email.com,Nam,P567893,912345683,Việt Nam,Nhiếp ảnh gia,6/25/2024,7/1/2024,Standard,1800000,"Chụp ảnh, Du lịch",Tour tham quan thành phố
+KH592,Sofia Petrova,3/28/1990,sofia.p@email.com,Nữ,RU678904,923456794,Nga,Vũ công ballet,6/25/2024,6/29/2024,Executive,4000000,"Ballet, Đàn violin",Nhà hàng Á
+KH593,James Wilson,6/10/1987,james.w@email.com,Nam,UK789015,934567805,Anh,Nhà văn,6/25/2024,6/30/2024,Deluxe,2500000,"Viết sách, Chơi golf",Room Service; Hồ bơi ngoài trời
+KH594,Mai Thị Hương,9/23/1992,huong.mt@email.com,Nữ,P890126,945678916,Việt Nam,Ca sĩ,6/26/2024,7/2/2024,Suite,3500000,"Hát dân ca, Đàn tranh",Massage & Spa
+KH595,Lucas Santos,12/5/1989,lucas.s@email.com,Nam,BR901237,956789027,Brazil,DJ,6/26/2024,6/30/2024,Standard,1800000,"Mix nhạc, Bóng rổ",Lobby Bar
+KH596,Anna Chen,3/18/1994,anna.c@email.com,Nữ,CN012348,967890138,Trung Quốc,Nghệ nhân,6/26/2024,7/1/2024,Executive,4000000,"Thư pháp, Hội họa",Nhà hàng Á; Room Service
+KH597,Phạm Văn Đức,6/30/1991,duc.pv@email.com,Nam,P123459,978901249,Việt Nam,Kiến trúc sư,6/27/2024,7/3/2024,Deluxe,2500000,"Thiết kế, Nhiếp ảnh",Tour tham quan thành phố
+KH598,Marie Dubois,9/12/1988,marie.d@email.com,Nữ,FR234570,989012360,Pháp,Đầu bếp bánh,6/27/2024,7/1/2024,Suite,3500000,"Làm bánh, Vẽ",Nhà hàng Âu
+KH599,Tanaka Kenji,12/25/1993,kenji.t@email.com,Nam,JP345671,990123471,Nhật Bản,Võ sư,6/27/2024,7/2/2024,Standard,1800000,"Karate, Thiền",Phòng tập hiện đại
+KH600,Nguyễn Thị Mai,3/7/1990,mai.nt@email.com,Nữ,P456782,901234582,Việt Nam,Nhà thiết kế,6/28/2024,7/4/2024,Executive,4000000,"Thiết kế thời trang, Vẽ",Massage & Spa; Room Service
+KH601,Daniel Brown,6/20/1987,daniel.b@email.com,Nam,US567893,912345683,Mỹ,Nhà sản xuất phim,6/28/2024,7/2/2024,Deluxe,2500000,"Làm phim, Chơi guitar",Phòng họp/Hội nghị
+KH602,Elena Popova,9/2/1992,elena.p@email.com,Nữ,RU678904,923456794,Nga,Nghệ sĩ xiếc,6/28/2024,7/3/2024,Suite,3500000,"Xiếc, Múa ballet",Nhà hàng Âu
+KH603,Trần Bảo Nam,12/15/1989,nam.tb@email.com,Nam,P789015,934567805,Việt Nam,Nhạc sĩ,6/29/2024,7/5/2024,Standard,1800000,"Sáng tác, Chơi đàn",Tour tham quan thành phố
+KH604,Sofia Garcia,3/28/1994,sofia.g@email.com,Nữ,ES890126,945678916,Tây Ban Nha,Vũ công,6/29/2024,7/3/2024,Executive,4000000,"Flamenco, Piano",Massage & Spa; Hồ bơi ngoài trời
+KH605,Liu Wei,6/10/1991,wei.l@email.com,Nam,CN901237,956789027,Trung Quốc,Họa sĩ,6/29/2024,7/4/2024,Deluxe,2500000,"Hội họa, Thư pháp",Nhà hàng Á
+KH606,Lê Thị Ngọc,9/23/1988,ngoc.lt@email.com,Nữ,P012348,967890138,Việt Nam,Giáo viên yoga,6/30/2024,7/6/2024,Suite,3500000,"Yoga, Thiền",Room Service
+KH607,Marco Rossi,12/5/1993,marco.r@email.com,Nam,IT123459,978901249,Ý,Đầu bếp,6/30/2024,7/4/2024,Standard,1800000,"Nấu ăn Ý, Làm vườn",Nhà hàng Âu
+KH608,Emma Thompson,3/18/1990,emma.t@email.com,Nữ,UK234570,989012360,Anh,Nhà văn,6/30/2024,7/5/2024,Executive,4000000,"Viết tiểu thuyết, Chụp ảnh",Tour tham quan thành phố
+KH609,Phạm Minh Tuấn,6/30/1987,tuan.pm@email.com,Nam,P345671,990123471,Việt Nam,Kỹ sư,7/1/2024,7/7/2024,Deluxe,2500000,"Cờ vua, Đọc sách",Phòng họp/Hội nghị
+KH610,Yuki Sato,9/12/1992,yuki.s@email.com,Nữ,JP456782,901234582,Nhật Bản,Nghệ nhân,7/1/2024,7/5/2024,Suite,3500000,"Ikebana, Trà đạo",Massage & Spa; Room Service
+KH611,Carlos Martinez,12/25/1989,carlos.m@email.com,Nam,MX567893,912345683,Mexico,Nhiếp ảnh gia,7/1/2024,7/6/2024,Standard,1800000,"Chụp ảnh, Guitar",Nhà hàng Á
+KH612,Anna Schmidt,3/7/1994,anna.s@email.com,Nữ,DE678904,923456794,Đức,Nhạc sĩ,7/2/2024,7/8/2024,Executive,4000000,"Piano, Violin",Hồ bơi ngoài trời
+KH613,Trần Đức Long,6/20/1991,long.td@email.com,Nam,P789015,934567805,Việt Nam,Đạo diễn,7/2/2024,7/6/2024,Deluxe,2500000,"Làm phim, Nhiếp ảnh",Tour tham quan thành phố
+KH614,Maria Silva,9/2/1988,maria.s@email.com,Nữ,BR890126,945678916,Brazil,Vũ công,7/2/2024,7/7/2024,Suite,3500000,"Samba, Yoga",Massage & Spa
+KH615,Alexander Kim,12/15/1993,alex.k@email.com,Nam,KR901237,956789027,Hàn Quốc,Producer,7/3/2024,7/9/2024,Standard,1800000,"Sản xuất nhạc, DJ",Room Service
+KH616,Nguyễn Thị Hạnh,3/28/1990,hanh.nt@email.com,Nữ,P012348,967890138,Việt Nam,Ca sĩ,7/3/2024,7/7/2024,Executive,4000000,"Hát, Múa",Nhà hàng Á; Dịch vụ Concierge
+KH617,Lars Nilsson,6/10/1987,lars.n@email.com,Nam,SE123459,978901249,Thụy Điển,Game Developer,7/3/2024,7/8/2024,Deluxe,2500000,"Lập trình game, Chơi game",Phòng họp/Hội nghị
+KH618,Sofia Rossi,9/23/1992,sofia.r@email.com,Nữ,IT234570,989012360,Ý,Nghệ sĩ,7/4/2024,7/10/2024,Suite,3500000,"Vẽ, Điêu khắc",Massage & Spa
+KH619,Lê Văn Thắng,12/5/1989,thang.lv@email.com,Nam,P345671,990123471,Việt Nam,Kiến trúc sư,7/4/2024,7/8/2024,Standard,1800000,"Thiết kế, Vẽ phác thảo",Room Service
+KH620,Clara Rodriguez,3/18/1994,clara.r@email.com,Nữ,ES456782,901234582,Tây Ban Nha,Vũ công flamenco,7/4/2024,7/9/2024,Executive,4000000,"Flamenco, Guitar",Nhà hàng Âu; Tour tham quan thành phố
